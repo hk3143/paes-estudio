@@ -19,8 +19,8 @@ export default function QuizPlayPage() {
   const [showResult, setShowResult] = useState(false)
   const [streak, setStreak] = useState(0)
   const [score, setScore] = useState(0)
-  const [timeLeft, setTimeLeft] = useState(30)
-  const [config, setConfig] = useState<any>({ timer: false })
+  const [timeLeft, setTimeLeft] = useState(15)
+  const [config, setConfig] = useState<any>({ timer: false, timerDuration: 15 })
   const [startTime, setStartTime] = useState(Date.now())
   const timerRef = useRef<NodeJS.Timeout | null>(null)
 
@@ -28,7 +28,11 @@ export default function QuizPlayPage() {
     const data = sessionStorage.getItem(`quiz_${id}`)
     const cfg = sessionStorage.getItem(`quiz_${id}_config`)
     if (data) setQuestions(JSON.parse(data))
-    if (cfg) setConfig(JSON.parse(cfg))
+    if (cfg) {
+      const parsed = JSON.parse(cfg)
+      setConfig(parsed)
+      setTimeLeft(parsed.timerDuration || 15)
+    }
     setStartTime(Date.now())
   }, [id])
 
@@ -38,7 +42,7 @@ export default function QuizPlayPage() {
       setCurrent(c => c + 1)
       setSelected(null)
       setShowResult(false)
-      setTimeLeft(30)
+      setTimeLeft(config.timerDuration || 15)
       setStartTime(Date.now())
     } else {
       // Quiz finished

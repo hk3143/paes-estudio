@@ -17,6 +17,8 @@ function QuizGenerator() {
   const [selectedSubject, setSelectedSubject] = useState(subjectFilter || "")
   const [questionCount, setQuestionCount] = useState(10)
   const [timer, setTimer] = useState(false)
+  const [timerDuration, setTimerDuration] = useState(15)
+  const [shuffle, setShuffle] = useState(true)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -28,14 +30,17 @@ function QuizGenerator() {
     if (selectedSubject) params.set("subject", selectedSubject)
     params.set("count", String(questionCount))
     params.set("timer", String(timer))
+    if (shuffle) params.set("shuffle", "true")
 
     const res = await fetch(`/api/quiz/generate?${params}`)
-    const questions = await res.json()
+    let questions = await res.json()
     if (questions.length === 0) return alert("No hay suficientes preguntas disponibles.")
+
+    if (shuffle) questions = questions.sort(() => Math.random() - 0.5)
 
     const quizId = Math.random().toString(36).substring(2, 15)
     sessionStorage.setItem(`quiz_${quizId}`, JSON.stringify(questions))
-    sessionStorage.setItem(`quiz_${quizId}_config`, JSON.stringify({ timer, count: questionCount }))
+    sessionStorage.setItem(`quiz_${quizId}_config`, JSON.stringify({ timer, timerDuration, count: questionCount }))
     router.push(`/quiz/${quizId}`)
   }
 
@@ -91,7 +96,36 @@ function QuizGenerator() {
           >
             <span className={`inline-block h-4 w-4 transform rounded-full bg-white transition ${timer ? "translate-x-6" : "translate-x-1"}`} />
           </button>
-          <span className="text-sm text-slate-600">Temporizador por pregunta (30s)</span>
+          <span className="text-sm text-slate-600">Temporizador</span>
+        </div>
+
+        {timer && (
+          <div>
+            <label className="mb-2 block text-sm font-medium text-slate-700">Tiempo por pregunta</label>
+            <div className="flex gap-2">
+              {[10, 15, 30, 60].map(n => (
+                <button
+                  key={n}
+                  onClick={() => setTimerDuration(n)}
+                  className={`rounded-lg px-4 py-2 text-sm font-medium transition ${
+                    timerDuration === n ? "bg-blue-600 text-white" : "bg-slate-100 text-slate-600 hover:bg-slate-200"
+                  }`}
+                >
+                  {n}s
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        <div className="flex items-center gap-3">
+          <button
+            onClick={() => setShuffle(!shuffle)}
+            className={`relative inline-flex h-6 w-11 items-center rounded-full transition ${shuffle ? "bg-violet-500" : "bg-slate-300"}`}
+          >
+            <span className={`inline-block h-4 w-4 transform rounded-full bg-white transition ${shuffle ? "translate-x-6" : "translate-x-1"}`} />
+          </button>
+          <span className="text-sm text-slate-600">Mezclar preguntas</span>
         </div>
 
         <button

@@ -15,6 +15,12 @@ export async function POST(req: NextRequest) {
     const answer = await askGemini(question, context)
     return NextResponse.json({ answer })
   } catch (e: any) {
-    return NextResponse.json({ error: e.message || "Error al procesar la pregunta" }, { status: 500 })
+    const msg = e.message || ""
+    if (msg.includes("429") || msg.includes("quota") || msg.includes("Quota exceeded")) {
+      return NextResponse.json({
+        answer: "La cuota gratuita de la IA se agotó por hoy. Puedes crear una nueva API key gratis en https://aistudio.google.com/apikey y actualizar `GEMINI_API_KEY` en las variables de entorno de Vercel.",
+      })
+    }
+    return NextResponse.json({ error: "Error al procesar la pregunta. Intenta de nuevo." }, { status: 500 })
   }
 }

@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { useEffect, useState } from "react"
-import { BookOpen, Brain, MessageCircle, TrendingUp, Sparkles, ArrowRight, BookCheck } from "lucide-react"
+import { BookOpen, Brain, MessageCircle, ArrowRight, BookCheck } from "lucide-react"
 
 const subjects = [
   { name: "Historia y Cs. Sociales", slug: "historia", color: "bg-amber-700", icon: "📜", questions: 25 },
@@ -70,26 +70,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="rounded-2xl bg-gradient-to-br from-blue-600 to-violet-600 p-6 text-white sm:p-8">
-        <div className="flex items-center gap-3">
-          <Sparkles className="h-6 w-6" />
-          <h2 className="text-xl font-bold">¿Cómo funciona?</h2>
-        </div>
-        <div className="mt-4 grid gap-4 sm:grid-cols-3">
-          <div className="rounded-xl bg-white/10 p-4">
-            <div className="text-2xl font-bold">1</div>
-            <p className="mt-1 text-sm text-blue-100">Explora el temario y estudia cada tema</p>
-          </div>
-          <div className="rounded-xl bg-white/10 p-4">
-            <div className="text-2xl font-bold">2</div>
-            <p className="mt-1 text-sm text-blue-100">Genera quizzes personalizados y practica</p>
-          </div>
-          <div className="rounded-xl bg-white/10 p-4">
-            <div className="text-2xl font-bold">3</div>
-            <p className="mt-1 text-sm text-blue-100">Pregunta a la IA lo que no entiendas</p>
-          </div>
-        </div>
-      </section>
+
     </div>
   )
 }
