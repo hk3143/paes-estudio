@@ -47,51 +47,43 @@ async function main() {
       moduleId: hMod1.id, name: "Independencia de Chile", slug: "independencia-chile", order: 1,
       content: `## Independencia de Chile (1810-1823)
 
-La independencia de Chile fue un proceso histórico que emancipó al país del Imperio español, enmarcado en el ciclo de revoluciones atlánticas que sacudieron el mundo occidental entre 1776 y 1825.
+La independencia de Chile fue el proceso histórico mediante el cual el territorio de la Capitanía General de Chile se emancipó del dominio del Imperio español, desarrollándose en el contexto más amplio de las guerras de independencia hispanoamericanas y del ciclo revolucionario atlántico que transformó el mundo occidental entre 1776 y 1825. Este proceso no fue un evento único sino un conjunto complejo de acontecimientos políticos, militares, sociales e ideológicos que se extendieron por más de una década, desde la formación de la Primera Junta Nacional de Gobierno el 18 de septiembre de 1810 hasta la abdicación de Bernardo O'Higgins como Director Supremo en 1823. La independencia chilena combinó elementos de guerra civil entre patriotas y realistas y entre facciones patriotas rivales, con una guerra internacional contra el Imperio español, y su desenlace dependió tanto de las condiciones internas como del contexto geopolítico sudamericano, particularmente de las campañas del Ejército Libertador de los Andes liderado por José de San Martín.
 
-### Causas
+### Antecedentes y causas
 
-**Externas:**
-- **Invasión napoleónica a España (1808):** Napoleón Bonaparte tomó prisionero al rey Fernando VII, generando un vacío de poder que desencadenó la formación de juntas de gobierno en toda Hispanoamérica.
-- **Ideas ilustradas:** La difusión del pensamiento de Rousseau, Montesquieu y Voltaire promovió ideales de libertad, igualdad y soberanía popular.
-- **Revoluciones atlánticas:** Independencia de EE.UU. (1776) y Revolución Francesa (1789) sirvieron como modelos de emancipación.
-- **Independencia de Haití (1804):** Primera independencia latinoamericana, demostró que el dominio colonial podía ser derrocado.
+**Crisis de la monarquía española:** El detonante inmediato del proceso independentista fue la invasión napoleónica a España en 1808. Napoleón Bonaparte forzó las abdicaciones de Carlos IV y Fernando VII en Bayona, colocando en el trono español a su hermano José Bonaparte. Esto generó un vacío de poder que desencadenó la formación de juntas de gobierno en España y, posteriormente, en las colonias americanas, que proclamaron mantener la soberanía en ausencia del rey legítimo.
 
-**Internas:**
-- **Descontento criollo:** Los criollos (descendientes de españoles nacidos en América) estaban marginados de los altos cargos políticos y eclesiásticos, reservados para peninsulares.
-- **Monopolio comercial español:** Las colonias solo podían comerciar con España, lo que limitaba el desarrollo económico criollo.
-- **Formación de una conciencia nacional:** La publicación de La Aurora de Chile (1812), primer periódico nacional dirigido por fray Camilo Henríquez, difundió ideas independentistas.
-- **Crisis económica:** Las guerras napoleónicas afectaron el comercio ultramarino y debilitaron la capacidad de control de la metrópoli.
+**Pensamiento ilustrado:** A lo largo del siglo XVIII, las ideas de la Ilustración —difundidas a través de libros, viajes y la educación de la élite criolla— habían penetrado en la intelectualidad chilena. Autores como Montesquieu (El espíritu de las leyes), Rousseau (El contrato social), Voltaire y Adam Smith circularon entre la elite criolla. La Declaración de Independencia de los Estados Unidos (1776) y la Revolución Francesa (1789) ofrecieron modelos concretos de república y soberanía popular que inspiraron a los líderes independentistas.
 
-### Etapas
+**Descontento criollo:** Los criollos, descendientes de españoles nacidos en América, constituían la elite económica y social del reino, dueños de grandes extensiones de tierra, minas y fortunas comerciales. Sin embargo, estaban sistemáticamente excluidos de los altos cargos políticos, administrativos, militares y eclesiásticos, que la Corona reservaba para los peninsulares (españoles nacidos en España). Esta discriminación generó resentimiento y la demanda de mayor participación en el gobierno del reino.
 
-**1. Patria Vieja (1810-1814):**
-- **18 de septiembre de 1810:** Se constituyó la Primera Junta Nacional de Gobierno, presidida por Mateo de Toro y Zambrano, marcando el inicio del proceso independentista.
-- Se convocó al Primer Congreso Nacional (1811), donde surgieron las facciones de moderados (liderados por Juan Martínez de Rozas) y exaltados (José Miguel Carrera).
-- **Gobierno de José Miguel Carrera (1811-1813):** Implementó reformas como la creación de la bandera y el escudo nacional, la apertura de nuevas escuelas y la primera imprenta.
-- Se dictaron los primeros reglamentos constitucionales (Reglamento de 1811 y Reglamento de 1812).
-- **Batalla de Rancagua (1-2 de octubre de 1814):** Las fuerzas realistas al mando de Mariano Osorio derrotaron a los patriotas. Fin de la Patria Vieja y emigración del ejército patriota a Mendoza.
+**Factores económicos:** El monopolio comercial español limitaba severamente las posibilidades de desarrollo económico de la colonia. Chile solo podía comerciar legalmente con España y con otras colonias españolas mediante el sistema de flotas y puertos autorizados. Las guerras napoleónicas interrumpieron el comercio ultramarino y debilitaron la capacidad de control de la metrópoli.
 
-**2. Reconquista (1814-1817):**
-- Restauración del poder español con el gobierno de Mariano Osorio y luego Casimiro Marcó del Pont.
-- Régimen de terror y represión contra los patriotas: persecuciones, confiscaciones de bienes, prisión y ejecuciones.
-- **Manuel Rodríguez:** Lideró una eficaz guerrilla de hostigamiento contra los realistas, manteniendo viva la causa patriota.
-- En Mendoza, el general José de San Martín organizó el Ejército Libertador de los Andes con apoyo de O'Higgins y los exiliados chilenos.
+### Etapas del proceso
 
-**3. Patria Nueva (1817-1823):**
-- **Cruce de los Andes (enero-febrero 1817):** Proeza militar donde 5.000 soldados cruzaron la cordillera por seis pasos distintos, sorprendiendo a los realistas.
-- **Batalla de Chacabuco (12 de febrero de 1817):** Victoria patriota que permitió la recuperación de Santiago.
-- **Batalla de Maipú (5 de abril de 1818):** Victoria decisiva que consolidó la independencia chilena.
-- **Declaración de Independencia (1 de enero de 1818):** Firmada por O'Higgins en Concepción y proclamada oficialmente en Santiago.
-- **Gobierno de Bernardo O'Higgins como Director Supremo (1817-1823):** Abolió los títulos de nobleza y mayorazgos, creó la Legión al Mérito, fundó la Escuela Militar, impulsó obras públicas. Sin embargo, su autoritarismo y medidas centralistas generaron oposición.
+**Patria Vieja (1810-1814):** El 18 de septiembre de 1810, el gobernador Mateo de Toro y Zambrano convocó un cabildo abierto en Santiago que resolvió constituir la Primera Junta Nacional de Gobierno. Pronto surgieron divisiones entre moderados (liderados por Juan Martínez de Rozas) y radicales (encabezados por José Miguel Carrera). El gobierno de Carrera (1811-1813) impulsó reformas significativas: creó la primera bandera y escudo nacional, inauguró la primera imprenta, fundó la Biblioteca Nacional y promulgó reglamentos constitucionales. La Batalla de Rancagua (1-2 de octubre de 1814), donde las tropas patriotas al mando de O'Higgins fueron derrotadas por Mariano Osorio, marcó el fin de este período y el inicio del exilio masivo de patriotas hacia Mendoza.
 
-### Figuras clave
-- **Bernardo O'Higgins Riquelme:** Director Supremo, impulsor de la independencia y la organización republicana inicial.
-- **José de San Martín:** General argentino, líder del Ejército Libertador de los Andes, figura clave en las independencias de Chile y Perú.
-- **José Miguel Carrera:** Líder radical de la Patria Vieja, impulsor de los primeros símbolos patrios.
-- **Manuel Rodríguez:** Guerrillero y héroe de la Reconquista, símbolo de la resistencia patriota.
-- **Fray Camilo Henríquez:** Periodista, escritor y sacerdote, fundador de La Aurora de Chile, difusor de las ideas ilustradas.
+**Reconquista (1814-1817):** El gobierno español fue restaurado bajo Osorio y luego Casimiro Marcó del Pont, quien instauró un régimen represivo con persecuciones, confiscaciones y ejecuciones. Manuel Rodríguez lideró una eficaz guerrilla de hostigamiento que mantuvo viva la causa independentista. Mientras tanto, en Mendoza, el general José de San Martín organizó en secreto el Ejército Libertador de los Andes, planificando la reconquista de Chile como paso previo para la liberación del Perú.
 
+**Patria Nueva (1817-1823):** En enero de 1817, el Ejército Libertador inició el Cruce de los Andes, una proeza logística que involucró a unos 5.000 soldados cruzando la cordillera por seis pasos distintos. La Batalla de Chacabuco (12 de febrero de 1817) fue una victoria decisiva, y la Batalla de Maipú (5 de abril de 1818) consolidó militarmente la independencia. La independencia fue declarada formalmente el 1 de enero de 1818. O'Higgins asumió como Director Supremo, impulsando reformas modernizadoras como la abolición de los títulos nobiliarios, la creación de la Legión al Mérito y la fundación de la Escuela Militar. Su estilo autoritario generó una creciente oposición que culminó con su abdicación forzada el 28 de enero de 1823.
+
+### Figuras clave del proceso
+
+| Personaje | Rol | Aporte principal |
+|-----------|-----|------------------|
+| José Miguel Carrera | Líder de la Patria Vieja | Símbolos patrios, imprenta, constituciones |
+| Bernardo O'Higgins | Director Supremo | Consolidación militar, organización republicana |
+| José de San Martín | General del Ejército Libertador | Cruce de los Andes, estrategia continental |
+| Manuel Rodríguez | Guerrillero | Resistencia durante la Reconquista |
+| Fray Camilo Henríquez | Periodista e ideólogo | La Aurora de Chile, difusión ilustrada |
+| Mariano Osorio | Jefe realista | Victoria en Rancagua |
+| Mateo de Toro y Zambrano | Gobernador | Convocatoria de la Primera Junta (1810) |
+
+### Consecuencias
+
+Políticamente, la independencia estableció las bases del Estado republicano, aunque la organización definitiva del país tomaría varias décadas más. Socialmente, mantuvo en gran medida la estructura jerárquica colonial, con la aristocracia criolla reemplazando a la elite peninsular en el control del poder. Económicamente, abrió a Chile al comercio internacional, particularmente con Gran Bretaña y Estados Unidos. Territorialmente, sentó las bases para la expansión futura del Estado chileno, incluyendo la incorporación de Chiloé (1826) y las reclamaciones sobre el estrecho de Magallanes.
+
+ 
 ### 📺 Videos recomendados
 - [Historia de la INDEPENDENCIA de CHILE - Resumen | Cuaderno de Historia](https://youtu.be/ex5KqTKzYZA)
 
@@ -106,52 +98,45 @@ La independencia de Chile fue un proceso histórico que emancipó al país del I
       moduleId: hMod1.id, name: "Organización de la República", slug: "organizacion-republica", order: 2,
       content: `## Organización de la República (1823-1830)
 
-Este período abarca desde la abdicación de O'Higgins (1823) hasta el triunfo conservador en la Batalla de Lircay (1830), caracterizado por la inestabilidad política y los ensayos constitucionales.
+El período de Organización de la República comprende los años entre la abdicación de Bernardo O'Higgins (1823) y el triunfo conservador en la Batalla de Lircay (1830). Esta etapa, también conocida como la época de los Ensayos Constitucionales, se caracterizó por una profunda inestabilidad política, el enfrentamiento entre facciones rivales (pipiolos, pelucones y estanqueros) y la búsqueda de una fórmula institucional estable que reemplazara al régimen colonial. Durante estos siete años, Chile experimentó múltiples constituciones, formas de gobierno y liderazgos, reflejando las tensiones entre centralismo y federalismo, autoritarismo y liberalismo. La incapacidad de consolidar un orden político duradero condujo a la Guerra Civil de 1829-1830, cuyo desenlace dio inicio a la República Conservadora o Portaliana.
 
-### Periodo de Ensayos Constitucionales (1823-1830)
+### El legado de O'Higgins y la transición
 
-**Gobierno de O'Higgins (1817-1823):**
-- O'Higgins enfrentó creciente oposición de la aristocracia criolla, la Iglesia y los sectores federalistas.
-- Abdicó forzadamente el 28 de enero de 1823, exiliándose al Perú.
-- Su legado incluye la abolición de los mayorazgos y títulos nobiliarios, la creación de la Escuela Militar y el inicio de obras de infraestructura.
+La abdicación de O'Higgins en 1823 fue el resultado de múltiples presiones. Su gobierno autoritario, aunque modernizador, había generado el rechazo de la aristocracia terrateniente (afectada por la abolición de mayorazgos), de la Iglesia (por sus políticas laicizantes) y de los sectores liberales y federalistas que lo acusaban de dictatorial. Su exilio voluntario al Perú dejó un vacío de poder que ninguna facción pudo llenar fácilmente. El país enfrentaba además una grave crisis económica: las guerras de independencia habían agotado el erario y el comercio estaba desorganizado.
 
-**Gobierno de Ramón Freire (1823-1826):**
-- Líder del bando federalista, enfrentó el caos económico y político.
-- **Abolición definitiva de la esclavitud (1823):** Chile se convirtió en el segundo país de América en abolir la esclavitud (tras Haití).
-- Invasión y toma del archipiélago de Chiloé (1826), último bastión español en Chile.
+### Los gobiernos del período
 
-**Ensayos constitucionales:**
-- **Constitución Moralista (1823):** Redactada por Juan Egaña, de carácter fuertemente moralizante y autoritario. Establecía un "Poder Moral" y un "Poder Conservador". Nunca entró plenamente en vigencia.
-- **Leyes Federales (1826):** Inspiradas en el modelo estadounidense, dividieron Chile en ocho provincias autónomas. Fracasaron por falta de tradición federal y recursos.
-- **Constitución Liberal (1828):** Redactada por José Joaquín de Mora, establecía un régimen liberal con libertades públicas, soberanía popular, división de poderes y sufragio ampliado (aunque no universal).
+**Ramón Freire y el federalismo (1823-1826):** Freire, líder del bando pipiolo (liberal), asumió como Director Supremo en un contexto de caos. Su administración logró la abolición definitiva de la esclavitud en 1823 (Chile fue el segundo país de América en hacerlo, tras Haití) y la anexión del archipiélago de Chiloé en 1826, el último reducto realista en el país. Sin embargo, su proyecto federalista fracasó por la falta de tradición federal y la escasez de recursos.
 
-**Bandos políticos:**
-- **Pelucones (conservadores):** Defendían el orden tradicional, el centralismo, el rol de la Iglesia y un Ejecutivo fuerte. Representaban a la aristocracia terrateniente.
-- **Pipiolos (liberales):** Promovían reformas liberales, federalismo y mayor participación política. Representaban a sectores medios y profesionales.
-- **Estanqueros:** Grupo liderado por Diego Portales y los comerciantes del estanco del tabaco, buscaban orden y estabilidad por sobre cualquier ideología.
+**Manuel Blanco Encalada y el ensayo federal (1826):** Tras la adopción de las Leyes Federales, Blanco Encalada se convirtió en el primer presidente de Chile (cargo creado para reemplazar al Director Supremo). Su gobierno duró solo siete meses, víctima de la inviabilidad del sistema federal que dividió al país en ocho provincias autónomas sin los recursos necesarios para sostenerse.
 
-**Guerra Civil de 1829-1830:**
-- Conflicto armado entre las facciones pipiola (gobierno de Francisco Antonio Pinto) y pelucona-estanquera.
-- **Batalla de Lircay (17 de abril de 1830):** Victoria decisiva de los conservadores liderados por José Joaquín Prieto, con Portales como ideólogo. Fin del periodo de ensayos constitucionales.
+**Francisco Antonio Pinto y la Constitución Liberal (1827-1829):** Pinto representó el ala moderada del liberalismo. Su gobierno promulgó la Constitución Liberal de 1828, redactada por José Joaquín de Mora, de inspiración doctrinaria liberal avanzada. Establecía un sistema republicano representativo con división de poderes, soberanía popular y declaración de derechos individuales. Sin embargo, nunca logró consolidarse debido a la oposición conservadora y a la falta de apoyo militar.
 
-### República Conservadora o Portaliana (1830-1861)
+### Los bandos políticos en pugna
 
-**Diego Portales:**
-- Figura central del orden conservador, aunque nunca fue presidente. Ejerció como ministro de Guerra, Interior y Relaciones Exteriores.
-- **Ideas portalians:** "Orden, autoridad, respeto a la ley". Priorizó la estabilidad política sobre la libertad.
-- "El orden social se mantiene por el peso de la noche": los ciudadanos deben obedecer sin discutir.
+| Bando | Ideología | Base social | Líderes |
+|-------|-----------|-------------|---------|
+| Pelucones | Conservadores, centralistas | Aristocracia terrateniente | José Joaquín Prieto, Diego Portales |
+| Pipiolos | Liberales, reformistas | Profesionales, sectores medios | Ramón Freire, Francisco Antonio Pinto |
+| Estanqueros | Pragmáticos, orden público | Comerciantes del estanco | Diego Portales, Manuel Rengifo |
+| O'higginistas | Seguidores de O'Higgins | Militares, burócratas | Bernardo O'Higgins (exiliado) |
 
-**Constitución de 1833:**
-- Redactada por Mariano Egaña, estuvo vigente hasta 1925.
-- **Características:** Régimen presidencialista fuerte, voto censitario (solo hombres propietarios o alfabetizados), religión católica oficial, Presidente duraba 5 años con reelección inmediata, poder ejecutivo con amplias atribuciones (veto, nombramiento de jueces, Estado de Sitio).
-- Estableció un Estado unitario y centralizado.
+### Los ensayos constitucionales
 
-**Gobiernos conservadores:**
-- **José Joaquín Prieto (1831-1841):** Primer gobierno conservador. Pacificación del país.
-- **Guerra contra la Confederación Perú-Boliviana (1836-1839):** Chile declaró la guerra a la confederación liderada por Andrés de Santa Cruz, considerándola una amenaza. Triunfo chileno en la Batalla de Yungay (1839), disolución de la confederación.
-- **Manuel Bulnes (1841-1851):** Época de expansión cultural. Fundación de la Universidad de Chile (1842) bajo la rectoría de Andrés Bello. Inicio de la colonización del sur (Llanquihue) con inmigrantes alemanes.
-- **Manuel Montt (1851-1861):** Continuó la obra modernizadora. Promulgación del Código Civil (1855, obra de Andrés Bello). Desarrollo del ferrocarril. Enfrentó revoluciones en 1851 y 1859.
+La inestabilidad del período se reflejó en la multiplicidad de intentos constitucionales. La **Constitución Moralista de 1823**, redactada por Juan Egaña, establecía un Poder Moral encargado de velar por las costumbres y un Poder Conservador con facultades cuasidictatoriales; su carácter moralizante y autoritario la hizo impracticable. Las **Leyes Federales de 1826**, inspiradas en la Constitución de Estados Unidos, dividieron el país en ocho provincias con asambleas provinciales electas, pero fracasaron por la ausencia de recursos fiscales provinciales y la inexperiencia en el autogobierno. La **Constitución Liberal de 1828**, considerada una de las más avanzadas de su tiempo en Hispanoamérica, establecía un sistema presidencial moderado con garantías individuales extensas, pero nunca entró plenamente en vigencia.
 
+### La Guerra Civil de 1829-1830
+
+El conflicto armado estalló cuando los conservadores, liderados por José Joaquín Prieto y asesorados por Diego Portales, desconocieron la autoridad del gobierno liberal. La guerra culminó en la Batalla de Lircay (17 de abril de 1830), donde las fuerzas conservadoras derrotaron decisivamente al ejército pipiolo al mando de Ramón Freire. Esta victoria marcó el inicio de la República Conservadora (1830-1861), un período de tres décadas de estabilidad política bajo la hegemonía del pensamiento portaliano, que priorizaba el orden, la autoridad y el respeto a la ley por sobre la libertad política.
+
+### Constitución de 1833
+
+Redactada por Mariano Egaña, esta Constitución estuvo vigente hasta 1925 y estableció las bases del Estado chileno durante casi un siglo. Sus características principales fueron: régimen presidencialista fuerte (Presidente con amplias facultades, veto, nombramiento de jueces, Estado de Sitio, período de 5 años con reelección inmediata), voto censitario (limitado a hombres propietarios o alfabetizados), religión católica como oficial del Estado, y un Estado unitario y centralizado.
+
+### Gobiernos conservadores
+
+José Joaquín Prieto (1831-1841) consolidó la pacificación del país y enfrentó la Guerra contra la Confederación Perú-Boliviana (1836-1839), que culminó con el triunfo chileno en la Batalla de Yungay y la disolución de la confederación liderada por Andrés de Santa Cruz. Manuel Bulnes (1841-1851) inauguró una época de expansión cultural con la fundación de la Universidad de Chile (1842) bajo la rectoría de Andrés Bello y el inicio de la colonización del sur con inmigrantes alemanes en la región de Llanquihue. Manuel Montt (1851-1861) continuó la obra modernizadora con la promulgación del Código Civil (1855, obra de Andrés Bello), el desarrollo del ferrocarril y la fundación de nuevas ciudades, aunque enfrentó revoluciones en 1851 y 1859.
+ 
 ### 📺 Videos recomendados
 - [Formación de la República en Chile - Puntaje Nacional PAES](https://youtu.be/LhV8_0ipE14)
 
@@ -166,45 +151,36 @@ Este período abarca desde la abdicación de O'Higgins (1823) hasta el triunfo c
       moduleId: hMod1.id, name: "República Liberal", slug: "republica-liberal", order: 3,
       content: `## República Liberal (1861-1891)
 
-La República Liberal marcó el ascenso del pensamiento liberal al poder, con reformas que limitaron el poder presidencial, laicizaron el Estado y expandieron las libertades públicas.
+La República Liberal fue el período de la historia de Chile comprendido entre 1861 y 1891, durante el cual el pensamiento liberal accedió al poder político e impulsó un programa de reformas que transformaron las bases del Estado chileno. Este período se caracterizó por la limitación del poder presidencial heredado de la Constitución de 1833, la laicización del Estado, la expansión de las libertades públicas, la incorporación de nuevos territorios mediante la Guerra del Pacífico y la Ocupación de la Araucanía, y un notable desarrollo cultural e intelectual. La República Liberal terminó abruptamente con la Guerra Civil de 1891, que enfrentó al presidente José Manuel Balmaceda contra el Congreso, resultando en el inicio del régimen parlamentario.
 
-### Gobiernos liberales
-- **José Joaquín Pérez (1861-1871):** Primer presidente liberal (fusionado con sectores conservadores moderados). Gobiernos de "conciliación".
-- **Federico Errázuriz Zañartu (1871-1876):** Su gobierno inició las reformas liberales. Reforma constitucional que prohibió la reelección inmediata (1871).
-- **Aníbal Pinto (1876-1881):** Enfrentó la crisis económica de 1876 y gestionó el inicio de la Guerra del Pacífico.
-- **Domingo Santa María (1881-1886):** Impulsó las Leyes Laicas. Continuó la Guerra del Pacífico en su fase final.
-- **José Manuel Balmaceda (1886-1891):** Último presidente liberal. Su enfrentamiento con el Congreso desencadenó la Guerra Civil de 1891.
+### Gobiernos de la Fusión Liberal-Conservadora (1861-1873)
 
-### Reformas liberales
+El período liberal comenzó con un gobierno de conciliación entre liberales moderados y conservadores pragmáticos. **José Joaquín Pérez (1861-1871)** presidió la transición, manteniendo un equilibrio que permitió las primeras reformas. **Federico Errázuriz Zañartu (1871-1876)** impulsó la primera gran reforma constitucional: la prohibición de la reelección inmediata del Presidente. **Aníbal Pinto (1876-1881)** enfrentó la crisis económica de 1876 y gestionó el inicio de la Guerra del Pacífico. **Domingo Santa María (1881-1886)** impulsó las Leyes Laicas y continuó la guerra en su fase final. **José Manuel Balmaceda (1886-1891)** fue el último presidente liberal; su enfrentamiento con el Congreso desencadenó la Guerra Civil de 1891.
 
-**Reformas constitucionales y políticas:**
-- Reforma de 1871: Prohibición de la reelección inmediata del Presidente.
-- Reforma de 1874: Reducción del quórum parlamentario, ampliación del sufragio (aunque seguía siendo censitario), limitación de las facultades del Ejecutivo para declarar Estado de Sitio.
-- Libertad de asociación y de reunión.
+### Las Leyes Laicas (1883-1884)
 
-**Leyes Laicas (1883-1884):**
-- **Ley de Cementerios Laicos (1883):** Creación de cementerios públicos no confesionales, quitando a la Iglesia el control exclusivo de los entierros.
-- **Ley de Matrimonio Civil (1884):** Estableció que el matrimonio ante el Estado es el único válido legalmente, quitando a la Iglesia la jurisdicción sobre esta materia.
-- **Ley de Registro Civil (1884):** Creó un registro estatal de nacimientos, matrimonios y defunciones, reemplazando los registros parroquiales.
-- Estas leyes representaron la primera gran separación Iglesia-Estado en Chile.
+Constituyen el núcleo del programa de secularización liberal y representan la primera gran separación entre la Iglesia y el Estado en Chile. La **Ley de Cementerios Laicos (1883)** estableció que los cementerios públicos serían administrados por el Estado y estarían abiertos a todas las personas sin distinción de credo. La **Ley de Matrimonio Civil (1884)** determinó que el matrimonio celebrado ante el Estado era el único legalmente válido, desplazando a la Iglesia Católica de la jurisdicción sobre esta materia. La **Ley de Registro Civil (1884)** creó un servicio estatal de registro de nacimientos, matrimonios y defunciones, reemplazando los registros parroquiales que la Iglesia había mantenido desde la Colonia.
 
-### Conflictos
+### Reformas constitucionales
 
-**Guerra del Pacífico (1879-1883):**
-- Causas: Disputa por el control de los recursos salitreros en el desierto de Atacama.
-- Chile vs. Perú y Bolivia.
-- **Campañas:** Campaña marítima (Combate de Iquique, 21 de mayo de 1879, heroísmo de Arturo Prat), Campaña de Tarapacá, Campaña de Tacna y Arica (Toma del Morro de Arica), Campaña de Lima.
-- **Consecuencias:** Chile incorporó Antofagasta (Bolivia) y Tarapacá y Arica (Perú). Bolivia perdió su acceso soberano al mar.
+Las reformas de 1874 redujeron el quórum parlamentario, ampliaron el sufragio (aunque seguía siendo censitario, basado en propiedad y alfabetización) y restringieron la facultad presidencial de declarar Estado de Sitio. Estas transformaciones fortalecieron al Congreso frente al Ejecutivo, sentando las bases institucionales para el posterior parlamentarismo.
 
-**Ocupación de la Araucanía (1861-1883):**
-- Incorporación del territorio mapuche al Estado chileno mediante acción militar y fundación de ciudades (Angol, Temuco, Villarrica).
-- Significó la pérdida de tierras y autonomía del pueblo mapuche.
+### Guerra del Pacífico (1879-1883)
 
-**Guerra Civil de 1891:**
-- Conflicto entre el presidente José Manuel Balmaceda y el Congreso Nacional por las facultades presupuestarias.
-- Triunfo del Congreso. Balmaceda se suicidó en la embajada argentina.
-- Inicio del régimen parlamentario.
+Fue el conflicto bélico más importante de la historia republicana de Chile. Las causas inmediatas fueron la disputa por los recursos salitreros en el desierto de Atacama. Chile se enfrentó a Perú y Bolivia. La guerra se desarrolló en varias campañas: la Campaña Marítima (Combate de Iquique, 21 de mayo de 1879, heroísmo de Arturo Prat), la Campaña de Tarapacá, la Campaña de Tacna y Arica (Toma del Morro de Arica), y la Campaña de Lima. Como consecuencias, Chile incorporó Antofagasta, Tarapacá y Arica, mientras Bolivia perdió su acceso soberano al mar.
 
+### Ocupación de la Araucanía (1861-1883)
+
+Este proceso de incorporación del territorio mapuche al Estado chileno se desarrolló mediante acción militar y fundación de ciudades (Angol, Temuco, Villarrica, Pucón). El Estado chileno ocupó más de 10 millones de hectáreas. La Pacificación de la Araucanía significó la pérdida definitiva de la autonomía territorial del pueblo mapuche y su incorporación forzada al sistema estatal chileno.
+
+### Desarrollo cultural
+
+La República Liberal fue también un período de florecimiento intelectual. La Universidad de Chile, bajo el rectorado de Andrés Bello, se consolidó como centro de la vida académica. Surgieron figuras literarias como Alberto Blest Gana (autor de Martín Rivas), José Victorino Lastarria, y los primeros historiadores profesionales como Diego Barros Arana y Benjamín Vicuña Mackenna.
+
+### Guerra Civil de 1891
+
+El conflicto final enfrentó a Balmaceda contra el Congreso, dominado por la oposición liberal y conservadora. Balmaceda buscaba un presidencialismo fuerte, pero su intento de imponer un presupuesto sin aprobación congresional desencadenó la guerra civil. Las fuerzas congresistas derrotaron al ejército balmacedista en las batallas de Concón y Placilla (agosto de 1891). Balmaceda se suicidó el 19 de septiembre de 1891. El triunfo del Congreso marcó el inicio del régimen parlamentario.
+ 
 ### 📺 Videos recomendados
 - [La Guerra del Pacífico - Resumen - Academia Play](https://youtu.be/FNM2g3q28YI)
 
@@ -219,49 +195,28 @@ La República Liberal marcó el ascenso del pensamiento liberal al poder, con re
       moduleId: hMod1.id, name: "Parlamentarismo", slug: "parlamentarismo", order: 4,
       content: `## Parlamentarismo (1891-1925)
 
-El parlamentarismo fue un régimen político de facto que rigió en Chile entre la Guerra Civil de 1891 y la promulgación de la Constitución de 1925. Formalmente, la Constitución de 1833 (presidencialista) siguió vigente, pero se operó como un sistema parlamentario a través de prácticas políticas.
+El parlamentarismo fue el régimen político de facto que rigió en Chile entre el triunfo del Congreso en la Guerra Civil de 1891 y la promulgación de la Constitución de 1925. Formalmente, la Constitución de 1833 —que establecía un régimen presidencialista— siguió vigente, pero en la práctica política se operó como un sistema parlamentario mediante convenciones y prácticas no escritas. Este período se caracterizó por el predominio absoluto del Congreso Nacional sobre el Presidente de la República, una rotativa ministerial constante que generó inestabilidad crónica, el control oligárquico del sistema político mediante el fraude electoral y el cohecho, y una creciente incapacidad para abordar los problemas sociales derivados de la industrialización, conocidos como la cuestión social. El desprestigio acumulado del sistema parlamentario condujo a su colapso tras el golpe militar de 1925.
 
-### Origen
-- Triunfo del Congreso en la Guerra Civil de 1891.
-- Se instauró un régimen donde el Parlamento (Congreso Nacional) predominaba sobre el Presidente de la República.
-- El presidente quedó reducido a una figura decorativa, sin capacidad real de gobierno.
+### Origen y bases del sistema
 
-### Características clave
+La Guerra Civil de 1891 no fue solo un conflicto entre Balmaceda y el Congreso, sino el choque entre dos concepciones del Estado: el presidencialismo centralizador versus el parlamentarismo oligárquico. El triunfo del Congreso instaló un régimen donde el poder efectivo residía en el Parlamento. El Presidente quedó reducido a una figura decorativa, sometido a la voluntad de las mayorías parlamentarias cambiantes.
 
-**1. Predominio del Congreso sobre el Ejecutivo:**
-- El Presidente estaba subordinado al Congreso, que controlaba el presupuesto y aprobaba los nombramientos ministeriales.
-- Los ministros respondían políticamente ante el Congreso, no ante el Presidente.
+### Características del régimen
 
-**2. Rotativa ministerial constante:**
-- Los ministros cambiaban frecuentemente al perder la confianza del Congreso mediante interpelaciones y votos de censura.
-- En 33 años hubo aproximadamente 100 gabinetes ministeriales, con una duración promedio de 4 meses.
-- Esta inestabilidad impedía la implementación de políticas de largo plazo.
+**Rotativa ministerial:** Entre 1891 y 1925 se sucedieron aproximadamente 100 gabinetes ministeriales, con una duración promedio de apenas 4 meses. Ningún ministerio logró completar su programa de gobierno. Los gabinetes cambiaban no por razones programáticas sino por el juego de combinaciones entre facciones parlamentarias, imposibilitando políticas de largo plazo.
 
-**3. "Gobierno de las combinaciones":**
-- Alianzas fluctuantes y cambiantes entre partidos (Conservador, Liberal, Liberal Democrático, Radical, Nacional, Demócrata) para formar mayorías parlamentarias.
-- Los partidos eran agrupaciones de notables, sin organización estable ni disciplina partidaria.
-- El sistema fomentaba el clientelismo político y el intercambio de favores.
+**Gobierno de las combinaciones:** Los partidos políticos de la época —Conservador, Liberal, Liberal Democrático (balmacedista), Radical, Nacional (monttvarista) y Demócrata— eran agrupaciones de notables sin organización estable ni disciplina partidaria. Las alianzas se formaban y disolvían según los intereses del momento, en lo que el historiador Alberto Edwards denominó la república parlamentaria. El clientelismo político y el intercambio de favores eran moneda corriente.
 
-**4. Cohecho y fraude electoral:**
-- La oligarquía controlaba las elecciones mediante el soborno directo (cohecho) y la falsificación de registros electorales.
-- **"Pegote":** Inscripción fraudulenta de votantes fallecidos o inexistentes para aumentar el padrón electoral de un candidato.
-- El sufragio seguía siendo restringido (censitario y masculino), lo que facilitaba la manipulación.
+**Fraude electoral:** El sistema electoral era controlado por la oligarquía mediante mecanismos sistemáticos de fraude. El cohecho consistía en la compra directa de votos con dinero o favores. El pegote era la inscripción fraudulenta de votantes fallecidos o inexistentes para aumentar artificialmente el padrón favorable a un candidato. El sufragio seguía siendo censitario y masculino, lo que facilitaba la manipulación.
 
-**5. Freno al desarrollo de leyes sociales:**
-- El Congreso, dominado por la élite terrateniente y minera, bloqueó sistemáticamente las reformas laborales y sociales que demandaba la creciente clase obrera.
-- Esta incapacidad para abordar la "cuestión social" generó un creciente desprestigio del sistema político.
+### Consecuencias políticas y sociales
 
-### Consecuencias
-- Inestabilidad ministerial crónica que paralizó la acción gubernamental.
-- Incapacidad para abordar los problemas sociales (vivienda, salud, trabajo).
-- Desprestigio del sistema político, los partidos y la clase política.
-- Creciente presión social: huelgas, movilizaciones, formación de organizaciones obreras.
+La parálisis gubernamental producida por el parlamentarismo tuvo consecuencias graves. El Estado fue incapaz de responder a las demandas de la creciente clase obrera, que sufría condiciones laborales inhumanas y vivienda insalubre. Las huelgas y protestas sociales se multiplicaron, siendo reprimidas violentamente. El desprestigio del sistema político se extendió a todos los sectores: la oligarquía perdió legitimidad, los partidos fueron vistos como facciones corruptas, y los sectores populares demandaron un cambio radical.
 
-### Fin del sistema
-- **Golpe de Estado de 1925:** Liderado por Carlos Ibáñez del Campo y Marmaduke Grove.
-- **Promulgación de la Constitución de 1925:** Restauró un presidencialismo fuerte, separó la Iglesia del Estado, creó la Contraloría General de la República y estableció derechos sociales.
-- Alessandri retornó del exilio y promulgó la nueva Constitución el 18 de septiembre de 1925.
+### Fin del parlamentarismo
 
+La crisis del parlamentarismo coincidió con la crisis del salitre, cuyo precio colapsó tras la invención del salitre sintético por Alemania durante la Primera Guerra Mundial. La inestabilidad política y social llevó a jóvenes oficiales del ejército liderados por Carlos Ibáñez del Campo y Marmaduke Grove a intervenir. En enero de 1925, un golpe militar presionó al presidente Arturo Alessandri Palma a convocar una asamblea constituyente. La nueva Constitución, promulgada el 18 de septiembre de 1925, restauró el presidencialismo, separó la Iglesia del Estado, creó la Contraloría General de la República y estableció derechos sociales, enterrando definitivamente el régimen parlamentario.
+ 
 ### 📺 Videos recomendados
 - [La Guerra Civil de 1891 - Cuaderno de Historia](https://youtu.be/zldHUZfMamk)
 
@@ -278,58 +233,41 @@ El parlamentarismo fue un régimen político de facto que rigió en Chile entre 
       moduleId: hMod2.id, name: "Cuestión Social", slug: "cuestion-social", order: 1,
       content: `## Cuestión Social (1880-1920)
 
-La "cuestión social" fue el conjunto de problemas sociales derivados de la industrialización, la urbanización acelerada y el crecimiento de la clase obrera en Chile entre fines del siglo XIX y comienzos del XX.
+La cuestión social es el concepto historiográfico utilizado para designar el conjunto de problemas sociales, económicos, sanitarios y políticos que afectaron a la clase trabajadora chilena entre fines del siglo XIX y comienzos del XX, como consecuencia de la industrialización, la urbanización acelerada, la expansión de la explotación salitrera y la consolidación del capitalismo en Chile. El término fue acuñado originalmente en la Europa del siglo XIX para referirse a los efectos negativos de la Revolución Industrial, y fue adoptado en Chile por intelectuales, políticos y religiosos que buscaban diagnosticar y proponer soluciones a la miseria de los sectores populares. La cuestión social se convirtió en el tema central del debate político chileno durante el parlamentarismo y fue una de las causas fundamentales del colapso de ese régimen en 1925.
 
-### Definición y contexto
-- La expresión fue acuñada en Europa a mediados del siglo XIX para referirse a los efectos negativos de la Revolución Industrial.
-- En Chile, el fenómeno se manifestó con fuerza desde la década de 1880, impulsado por el auge salitrero en el norte, la expansión ferroviaria, el crecimiento urbano acelerado (Santiago, Valparaíso, Concepción) y la migración campo-ciudad.
+### Contexto económico y demográfico
 
-### Problemas concretos
+El auge del salitre en el norte grande (desde la década de 1880) generó un crecimiento económico sin precedentes, pero también transformó la estructura social del país. Miles de trabajadores migraron desde el campo y las ciudades del centro hacia las oficinas salitreras del desierto de Atacama. Paralelamente, Santiago, Valparaíso y Concepción experimentaron un crecimiento urbano explosivo: Santiago pasó de unos 150.000 habitantes en 1875 a más de 500.000 en 1920. La migración campo-ciudad superó la capacidad de absorción de las urbes, generando un grave déficit habitacional y sanitario.
 
-**Condiciones laborales inhumanas:**
-- Jornadas de 12 a 16 horas diarias, incluso para mujeres y niños.
-- Salarios miserables que no cubrían las necesidades básicas.
-- Trabajo infantil generalizado desde los 6-7 años en fábricas, minas y salitreras.
-- Accidentes laborales sin indemnización ni protección.
-- No existía seguro médico, jubilación ni compensación por despido.
+### Condiciones de vida y trabajo
 
-**Vivienda insalubre:**
-- **Conventillos:** Viviendas hacinadas en ciudades, donde familias enteras vivían en una pieza de 3x4 m, sin ventilación, agua potable ni servicios sanitarios.
-- En 1890, el 75% de la población de Santiago vivía en conventillos, propagando enfermedades como tuberculosis, tifus y cólera.
+**Jornadas laborales y salarios:** La jornada laboral típica en faenas salitreras, fábricas y puertos era de 12 a 16 horas diarias. Mujeres y niños trabajaban en las mismas condiciones, pero con salarios inferiores. El trabajo infantil desde los 6-7 años era práctica generalizada. Los salarios eran insuficientes para cubrir las necesidades básicas. En las salitreras, el sistema de pago en fichas (que solo podían canjearse en la pulpería de la oficina) ataba al trabajador a un ciclo de endeudamiento.
 
-**Falta de seguridad social:**
-- No existían leyes de accidentes del trabajo, seguro de desempleo, jubilación ni salud pública.
-- Un trabajador accidentado quedaba en la miseria. Viudas y huérfanos quedaban desamparados.
+**Vivienda insalubre (conventillos):** El conventillo se convirtió en el símbolo de la vivienda obrera. Consistía en grandes casonas subdivididas en pequeñas piezas de 3x4 metros, donde vivían familias enteras en condiciones de hacinamiento extremo, sin ventilación ni servicios sanitarios. En 1890, se estima que el 75% de la población de Santiago habitaba en conventillos. Las enfermedades infecciosas —tuberculosis, tifus, cólera— se propagaban rápidamente, contribuyendo a una tasa de mortalidad infantil que alcanzaba el 50% en los sectores populares.
 
-**Consecuencias sociales:** Alcoholismo generalizado, desintegración familiar, altas tasas de mortalidad infantil (hasta 50% en sectores populares), prostitución.
+**Falta de seguridad social:** No existían leyes de accidentes del trabajo, seguro de desempleo, jubilación ni salud pública. Un trabajador accidentado o enfermo quedaba en la miseria absoluta.
 
-### Actores y respuestas
+### Organización del movimiento obrero
 
-**Movimiento obrero:**
-- **Mancomunales (1890-1900):** Primeras organizaciones mutualistas de ayuda mutua.
-- **Sociedades de resistencia (1900-1910):** Organizaciones anarquistas que promovían la huelga y acción directa.
-- **FOCH (Federación Obrera de Chile, 1909):** Primera gran central sindical.
-- **IWW en Chile (1919):** Corriente sindical revolucionaria de origen estadounidense.
+| Organización | Período | Características |
+|-------------|---------|-----------------|
+| Sociedades mutualistas | 1850-1890 | Ayuda mutua, socorros mutuos, sin confrontación |
+| Mancomunales | 1890-1900 | Primeras organizaciones obreras del salitre |
+| Sociedades de resistencia | 1900-1910 | Influencia anarquista, acción directa |
+| FOCH | 1909-1920 | Central sindical nacional, influencia socialista |
+| IWW Chile | 1919-1924 | Sindicalismo revolucionario de origen estadounidense |
+| Partido Obrero Socialista (POS) | 1912-1922 | Fundado por Recabarren, antecedente del PC |
 
-**Huelgas y represión:**
-- **Huelga del puerto de Valparaíso (1903):** Represión con saldo de muertos.
-- **Huelga de la carne (1905):** Protesta masiva en Santiago contra el aumento del precio de la carne. Más de 200 muertos.
-- **Matanza de la Escuela Santa María de Iquique (21 dic 1907):** Obreros del salitre acribillados por el ejército. Entre 2.000 y 3.600 muertos. Peor masacre obrera en la historia de Chile.
-- **Matanza de San Gregorio (1921):** Represión a obreros salitreros.
+**Luis Emilio Recabarren:** Figura central del movimiento obrero chileno, fundó el Partido Obrero Socialista (1912) y el diario El Despertar de los Trabajadores. Fue el principal impulsor de la organización sindical y política de la clase trabajadora.
 
-**La Iglesia y la cuestión social:**
-- **Encíclica Rerum Novarum (1891):** El Papa León XIII llamó a mejorar la condición de los trabajadores, criticando tanto al capitalismo salvaje como al socialismo.
+### Huelgas y represión
+
+**Huelga del puerto de Valparaíso (1903):** Trabajadores portuarios demandaron mejores condiciones. La represión dejó más de 100 muertos. **Huelga de la carne (1905):** Protesta masiva en Santiago contra el alza del precio de la carne, reprimida con más de 200 muertos. **Matanza de la Escuela Santa María de Iquique (21 de diciembre de 1907):** Es la masacre obrera más grande en la historia de Chile. Miles de obreros salitreros en huelga, junto a sus familias, se habían congregado en la Escuela Santa María. El ejército abrió fuego contra la multitud indefensa, con un saldo de entre 2.000 y 3.600 muertos. **Matanza de San Gregorio (1921):** Represión a obreros salitreros durante el gobierno de Alessandri.
 
 ### Primeras leyes sociales
-- Descanso dominical (1907)
-- Sillas para empleadas de comercio / Ley de la silla (1914)
-- Accidentes del trabajo (1916)
-- Protección a la maternidad obrera (1917)
-- Contrato de trabajo (1919)
 
-### Conexión con el Parlamentarismo
-La incapacidad del régimen parlamentario para abordar la cuestión social fue una de las causas principales de su desprestigio y caída en 1925.
-
+La presión del movimiento obrero y la difusión de la doctrina social de la Iglesia (encíclica Rerum Novarum del Papa León XIII, 1891) impulsaron las primeras leyes sociales: Descanso dominical (1907), Ley de la silla (1914), Accidentes del trabajo (1916), Protección a la maternidad obrera (1917) y Contrato de trabajo (1919). Estas leyes, aunque insuficientes y tardías, sentaron las bases del derecho laboral chileno.
+ 
 ### 📺 Videos recomendados
 - [Matanza de la Escuela Santa María de Iquique - Cuaderno de Historia](https://youtu.be/H49pC7wBvZY)
 
@@ -345,38 +283,29 @@ La incapacidad del régimen parlamentario para abordar la cuestión social fue u
       content: `## Constitución de 1925 y Estado de Compromiso
 
 ### Constitución de 1925
-Elaborada bajo el gobierno de Arturo Alessandri Palma tras el golpe militar de 1925, que puso fin al parlamentarismo.
 
-**Características principales:**
-- **Restableció el presidencialismo fuerte:** El Presidente recuperó el control del gabinete ministerial y la iniciativa legislativa.
-- **Separación de la Iglesia y el Estado:** Chile dejó de tener una religión oficial. Libertad de culto.
-- **Derechos sociales:** Por primera vez una Constitución chilena incorporó derechos sociales (trabajo, salud, educación), aunque con aplicación gradual.
-- **Creación de la Contraloría General de la República:** Órgano autónomo encargado de controlar la legalidad de los actos administrativos y la gestión fiscal.
-- **Duración:** Formalmente vigente hasta 1980, pero de facto operó hasta el golpe de 1973.
+La Constitución Política de 1925 fue el resultado de un proceso de reforma institucional que puso fin al régimen parlamentario y restauró un presidencialismo fuerte en Chile. Fue promulgada el 18 de septiembre de 1925 durante el gobierno de Arturo Alessandri Palma, quien había regresado del exilio tras el golpe militar de enero de ese año.
+
+**Características principales:** Restableció el presidencialismo fuerte: el Presidente recuperó el control exclusivo del gabinete ministerial y la iniciativa legislativa. Estableció la separación de la Iglesia y el Estado: Chile dejó de tener una religión oficial y consagró la libertad de culto. Por primera vez una Constitución chilena incorporó derechos sociales (trabajo, salud, educación), aunque con aplicación gradual. Creó la Contraloría General de la República, organismo autónomo encargado de controlar la legalidad de los actos administrativos y la gestión fiscal. Estuvo formalmente vigente hasta 1980, pero de facto operó hasta el golpe de 1973.
 
 ### Estado de Compromiso (1932-1973)
 
-Sistema político chileno caracterizado por la representación y negociación de los principales sectores sociales (clase obrera, clase media, empresarios) a través de partidos políticos. El Estado actuaba como mediador.
+El Estado de Compromiso es el concepto acuñado por el politólogo Arturo Valenzuela para describir el sistema político que se consolidó en Chile tras la crisis de la Gran Depresión y se mantuvo hasta el quiebre institucional de 1973. Se caracterizó por la representación y negociación de los principales sectores sociales (clase obrera, clase media, empresariado) a través de partidos políticos institucionalizados, con el Estado actuando como mediador.
 
-**Características:**
-- Sistema de partidos amplio: Conservador, Liberal, Radical, Socialista, Comunista, Demócrata Cristiano (desde 1957).
-- Negociación y compromiso entre élites políticas.
-- El Estado asumió un rol activo en la economía y el bienestar social.
-- Sufragio femenino desde 1949 (primeras elecciones con voto femenino en 1952).
+**Pluralismo político:** El sistema de partidos incluía desde la derecha conservadora (Partido Conservador, luego Nacional) hasta la izquierda revolucionaria (Partido Socialista, Partido Comunista), pasando por un centro político representado por el Partido Radical y la Democracia Cristiana (desde 1957). A pesar de las diferencias ideológicas, las élites políticas compartían un compromiso básico con las reglas del juego democrático y la negociación como método de resolución de conflictos.
 
-**Gobiernos radicales (1938-1952):**
-- **Pedro Aguirre Cerda (1938-1941):** "Gobernar es educar". Creación de CORFO (1939) para impulsar la industrialización. Construcción de escuelas.
-- **Juan Antonio Ríos (1942-1946):** Continuó la industrialización. Chile rompió con el Eje en la Segunda Guerra Mundial. Impulso a la siderurgia (Huachipato) y energía (ENDESA).
-- **Gabriel González Videla (1946-1952):** Ley de Defensa Permanente de la Democracia (Ley Maldita, 1948) que ilegalizó al Partido Comunista. Ley de Sufragio Femenino (1949).
+**Rol activo del Estado:** El Estado asumió un papel central en el desarrollo económico (a través de CORFO y las empresas estatales), la provisión de servicios sociales (educación, salud, vivienda) y la mediación entre el capital y el trabajo.
 
-**Gobierno de Carlos Ibáñez (1952-1958):** Campaña populista. Giro represivo. Creación del Banco del Estado (1953).
+### Gobiernos del período
 
-**Gobierno de Jorge Alessandri (1958-1964):** Liberal-conservador. Primera Ley de Reforma Agraria (1962).
+**Gobiernos radicales (1938-1952):** Pedro Aguirre Cerda (1938-1941) simbolizó con su lema Gobernar es educar el compromiso del Estado con el desarrollo social; creó CORFO en 1939, impulsando la industrialización sustitutiva de importaciones. Juan Antonio Ríos (1942-1946) continuó la industrialización y Chile rompió relaciones con el Eje durante la Segunda Guerra Mundial. Gabriel González Videla (1946-1952) promulgó la Ley de Defensa Permanente de la Democracia (Ley Maldita, 1948) que ilegalizó al Partido Comunista, pero también la Ley de Sufragio Femenino (1949).
 
-**Gobierno de Eduardo Frei Montalva (1964-1970):** "Revolución en Libertad". Reforma Agraria, chilenización del cobre (51% estatal), sindicalización campesina, promoción popular.
+**Carlos Ibáñez del Campo (1952-1958):** Su segunda presidencia combinó un discurso populista con medidas represivas. Creó el Banco del Estado (1953). **Jorge Alessandri (1958-1964):** Representó un giro liberal-conservador; promulgó la primera Ley de Reforma Agraria en 1962, aunque de alcance limitado. **Eduardo Frei Montalva (1964-1970):** La Revolución en Libertad impulsó la Reforma Agraria (expropiación de latifundios), la chilenización del cobre (51% estatal), la sindicalización campesina y la promoción popular.
 
-**Crisis del Estado de Compromiso:** Polarización política, movilización social creciente, estancamiento económico, inflación, radicalización de los proyectos políticos.
+### Crisis del Estado de Compromiso
 
+Hacia fines de la década de 1960, el sistema comenzó a mostrar signos de agotamiento. La polarización política se intensificó, la movilización social creció (tomas de terrenos, sindicalización, movimientos estudiantiles) y la economía experimentó estancamiento con inflación creciente. Los proyectos políticos se radicalizaron: la izquierda (Unidad Popular) propuso una transición al socialismo, mientras la derecha y sectores medios se sintieron amenazados. El Estado de Compromiso, basado en la negociación y el centro político, fue erosionado por los extremos, desembocando en la crisis de 1973.
+ 
 ### 📺 Videos recomendados
 - [Los Gobiernos Radicales (1938-1952) - Cuaderno de Historia](https://youtu.be/eOq0A6F_8dI)
 
@@ -391,49 +320,30 @@ Sistema político chileno caracterizado por la representación y negociación de
       moduleId: hMod2.id, name: "Gobierno de Salvador Allende", slug: "gobierno-allende", order: 3,
       content: `## Gobierno de Salvador Allende (1970-1973)
 
-El gobierno de Salvador Allende representa el primer intento en el mundo de construir una sociedad socialista por la vía democrática e institucional, conocido como la "vía chilena al socialismo".
+El gobierno de Salvador Allende Gossens (1970-1973) representa el primer intento en la historia mundial de construir una sociedad socialista mediante procedimientos democráticos e institucionales, conocido como la vía chilena al socialismo. Allende, médico socialista y militante del Partido Socialista desde su juventud, asumió la presidencia el 4 de noviembre de 1970 como candidato de la Unidad Popular (UP), una coalición de partidos de izquierda. Su gobierno implementó un ambicioso programa de transformaciones estructurales: nacionalización del cobre, profundización de la Reforma Agraria y estatización de la banca y las industrias estratégicas. El experimento terminó abruptamente con el golpe de Estado del 11 de septiembre de 1973, que instauró una dictadura militar de 17 años.
 
-### Contexto
-- **Triunfo electoral:** Allende ganó la elección presidencial del 4 de septiembre de 1970 con el 36.6% de los votos como candidato de la Unidad Popular (UP).
-- Al no alcanzar mayoría absoluta, su elección fue ratificada por el Congreso Nacional tras un acuerdo con la Democracia Cristiana que incluía un Estatuto de Garantías Constitucionales.
+### El camino a La Moneda
 
-### Programa de la Unidad Popular
+Allende fue candidato presidencial en cuatro oportunidades (1952, 1958, 1964, 1970). El 4 de septiembre de 1970 obtuvo el 36,6% de los votos, superando a Jorge Alessandri (34,9%) y Radomiro Tomic (27,8%). Al no alcanzar la mayoría absoluta, su elección debía ser ratificada por el Congreso Nacional. La Democracia Cristiana condicionó su apoyo a la aprobación de un Estatuto de Garantías Constitucionales. Allende aceptó y fue ratificado el 24 de octubre de 1970.
 
-**Nacionalizaciones:**
-- **Nacionalización del cobre (11 de julio de 1971):** Aprobada por unanimidad del Congreso Nacional. El Estado tomó el control de Chuquicamata, El Teniente, Salvador y Andina.
-- Nacionalización de la banca privada nacional y extranjera.
-- Estatización de industrias estratégicas: textil, siderúrgica (CAP), cemento, nitratos.
+### Las grandes transformaciones
 
-**Reforma Agraria:**
-- Aceleración drástica de la expropiación de latifundios iniciada por Frei.
-- Se expropiaron más de 6 millones de hectáreas en tres años.
+**Nacionalización del cobre:** El 11 de julio de 1971, el Congreso Nacional aprobó por unanimidad la reforma constitucional que nacionalizaba la gran minería del cobre. El Estado tomó el control de Chuquicamata, El Teniente, Salvador y Andina, que estaban en manos de empresas estadounidenses (Anaconda, Kennecott, Cerro Corporation). La determinación de las indemnizaciones generó controversia internacional.
 
-**Política social:**
-- Medio litro de leche diario para todos los niños y niñas del país.
-- Campaña de alfabetización masiva.
-- Salud pública gratuita y universal.
+**Reforma Agraria:** El gobierno aceleró drásticamente la expropiación de latifundios iniciada por Frei Montalva. En tres años se expropiaron más de 6 millones de hectáreas. **Área de Propiedad Social:** Se estatizaron más de 500 empresas consideradas estratégicas, incluyendo la banca privada, la siderúrgica CAP, el cemento y los nitratos.
 
-### Problemas y oposición
+### Políticas sociales y culturales
 
-**Oposición política:** Congreso con mayoría opositora (DC y PN). Prensa opositora (El Mercurio, canal 13) en campaña de desestabilización.
+Allende impulsó políticas sociales innovadoras: el Programa de Medio Litro de Leche diario para todos los niños; una campaña masiva de alfabetización; la ampliación de la cobertura de salud pública. En el plano cultural, se apoyó el cine y la música popular (Violeta Parra, Víctor Jara, Inti-Illimani, Quilapayún), democratizando el acceso a la cultura.
 
-**Intervención de Estados Unidos:**
-- La administración Nixon y la CIA financiaron a la oposición, medios de comunicación y gremios.
-- Bloqueo económico y financiero internacional.
-- La ITT conspiró activamente contra Allende.
+### Oposición y crisis
 
-**Crisis económica:**
-- Inflación descontrolada (600% anual en 1973).
-- Desabastecimiento y mercado negro.
-- Paro de transportistas de octubre de 1972 (financiado por la CIA).
+La oposición al gobierno fue múltiple. Políticamente, el Congreso tenía mayoría opositora (DC y PN). Mediáticamente, El Mercurio y la prensa conservadora desarrollaron una campaña de oposición sistemática. Estados Unidos, bajo Nixon y Kissinger, intervino activamente: la CIA financió a la oposición, los medios y los gremios empresariales; el Banco Mundial y el FMI bloquearon créditos; la ITT conspiró para impedir la asunción de Allende. La economía entró en una espiral de crisis con inflación que alcanzó el 600% anual en 1973, desabastecimiento, mercado negro y el paro de transportistas de octubre de 1972. La polarización social alcanzó extremos: tomas de fundos y fábricas, marchas de las cacerolas vacías, enfrentamientos callejeros.
 
-**Polarización social:** Tomas de fundos y fábricas, marchas de las "cacerolas vacías", tensión extrema.
+### El desenlace
 
-### Desenlace
-- **Golpe de Estado del 11 de septiembre de 1973:** Bombardeo de La Moneda.
-- **Muerte de Allende:** Se suicidó en La Moneda cumpliendo su promesa de no rendirse.
-- Inicio de la dictadura militar que duraría 17 años.
-
+El 11 de septiembre de 1973, las Fuerzas Armadas lideradas por el general Augusto Pinochet ejecutaron un golpe de Estado. La Moneda fue bombardeada por aviones de la FACH. Salvador Allende, fiel a su promesa de no rendirse, se suicidó en el Palacio de La Moneda. Su última alocución radial se convirtió en un símbolo de su legado: Seguirán ustedes sabiendo que, mucho más temprano que tarde, se abrirán las grandes alamedas por donde pase el hombre libre para construir una sociedad mejor.
+ 
 ### 📺 Videos recomendados
 - [La Batalla de Chile - Parte 1 (Documental)](https://youtu.be/yarS-ifaHI8)
 - [La Batalla de Chile - Parte 2 (Documental)](https://youtu.be/ivp_bg1ImnQ)
@@ -450,52 +360,21 @@ El gobierno de Salvador Allende representa el primer intento en el mundo de cons
       moduleId: hMod2.id, name: "Dictadura Militar y Transición", slug: "dictadura-transicion", order: 4,
       content: `## Dictadura Militar (1973-1990) y Transición a la Democracia
 
-### Dictadura Militar
+### Dictadura Militar (1973-1990)
 
-**Régimen de facto:**
-- Tras el golpe del 11 de septiembre de 1973, se instauró una Junta Militar (Pinochet, Merino, Leigh, Mendoza).
-- Pinochet concentró el poder, autodesignándose Presidente en 1974.
-- Se disolvió el Congreso, se prohibieron los partidos políticos y se impuso control total de la prensa.
+Tras el golpe del 11 de septiembre de 1973, se instauró una Junta Militar de Gobierno integrada por Augusto Pinochet (Ejército), José Toribio Merino (Armada), Gustavo Leigh (FACH) y César Mendoza (Carabineros). Se disolvió el Congreso Nacional, se prohibieron los partidos políticos, se impuso censura total a la prensa y se declaró Estado de Sitio. Pinochet concentró progresivamente el poder, autodesignándose Presidente de la República en 1974.
 
-**Represión sistemática:**
-- Violaciones masivas a los DD.HH.: detención ilegal, tortura, ejecuciones, desaparición forzada.
-- **Informe Valech (2004):** 35.000 casos de prisión política y tortura.
-- **Detenidos desaparecidos:** Más de 1.000 personas.
-- **Exilio:** Cientos de miles de chilenos.
-- **Órganos represivos:** DINA (1974-1977) y CNI. Operación Cóndor.
+**Represión sistemática:** El régimen implementó un aparato represivo que violó masivamente los derechos humanos. La Dirección de Inteligencia Nacional (DINA, 1974-1977), dirigida por Manuel Contreras, operó como policía política secreta que perseguía, secuestraba, torturaba y ejecutaba a opositores. La DINA coordinó acciones con otras dictaduras sudamericanas en el marco de la Operación Cóndor. El atentado contra Orlando Letelier en Washington D.C. (1976) reveló la proyección internacional de la represión. La Comisión Nacional de Verdad y Reconciliación (Informe Rettig, 1991) documentó 2.279 casos de violaciones con resultado de muerte. El Informe Valech (2004) reconoció 35.000 casos de prisión política y tortura. Más de 1.000 personas permanecen como detenidos desaparecidos y cientos de miles de chilenos se exiliaron.
 
-**Constitución de 1980:**
-- Aprobada en plebiscito irregular (sin registros electorales ni libertad de prensa).
-- Consagró el modelo neoliberal y el rol subsidiario del Estado.
-- "Enclaves autoritarios": senadores designados, sistema binominal, rol tutelar de las FF.AA.
+**Constitución de 1980:** Fue aprobada en un plebiscito realizado el 11 de septiembre de 1980 en condiciones de nula libertad política: sin registros electorales, sin libertad de prensa y sin partidos políticos. Consagró el modelo neoliberal y el rol subsidiario del Estado, estableció el sistema electoral binominal, creó la figura de los senadores designados y otorgó un papel tutelar a las Fuerzas Armadas a través del Consejo de Seguridad Nacional.
 
-**Reformas económicas neoliberales:**
-- **Chicago Boys:** Economistas de la Universidad de Chicago.
-- Privatizaciones masivas (más de 500 empresas estatales).
-- Apertura comercial (aranceles reducidos al 10%).
-- Liberalización de precios y mercados.
-- Reforma previsional (AFP, 1981) y de salud (ISAPRES, 1981).
-
-**Crisis de 1982-1983:**
-- PIB cayó 14%, desempleo superó 20%.
-- Protestas nacionales (1983-1986) lideradas por la Asamblea de la Civilidad.
+**Reformas económicas neoliberales:** Un grupo de economistas formados en la Universidad de Chicago bajo Milton Friedman —los Chicago Boys— asumió el control de la política económica desde 1975. Las reformas incluyeron: privatización de más de 500 empresas estatales, apertura comercial (aranceles reducidos al 10% uniforme), liberalización de precios, creación del sistema de AFP (1981) y las ISAPRES (1981). La implementación de estas reformas provocó la crisis de 1982-1983, cuando el PIB cayó un 14% y el desempleo superó el 20%.
 
 ### Transición a la Democracia
 
-**Plebiscito de 1988:**
-- La oposición se unió en la Concertación de Partidos por el No.
-- **Resultado:** No obtuvo 55.99% de los votos.
-- Pinochet aceptó el resultado y convocó a elecciones.
+El plebiscito del 5 de octubre de 1988, establecido en la Constitución de 1980, debía decidir la continuidad de Pinochet por otros 8 años. La oposición se unificó en la Concertación de Partidos por el No (16 partidos desde el PC hasta la derecha moderada). El triunfo del No con el 55,99% de los votos forzó a Pinochet a convocar a elecciones.
 
-**Gobierno de Patricio Aylwin (1990-1994):**
-- Primer gobierno de la Concertación.
-- **Informe Rettig (1991):** Investigó violaciones a los DD.HH. con resultado de muerte.
-- Reformas tributarias para aumentar el gasto social.
-
-**Gobiernos de la Concertación:**
-- **Eduardo Frei Ruiz-Tagle (1994-2000):** Modernización, TLC.
-- **Ricardo Lagos (2000-2006):** Reforma procesal penal, Reforma AUGE/GES, Ley de divorcio (2004).
-- **Michelle Bachelet (2006-2010):** Primera mujer presidenta. Reforma previsional (Pilar Solidario). Transantiago.`,
+**Patricio Aylwin (1990-1994):** Primer gobierno democrático. Creó la Comisión Nacional de Verdad y Reconciliación (Informe Rettig). Impulsó reformas tributarias para aumentar el gasto social. Eduardo Frei Ruiz-Tagle (1994-2000): Continuó la modernización y firmó tratados de libre comercio. Ricardo Lagos (2000-2006): Primer presidente socialista desde Allende; implementó la Reforma Procesal Penal, el Plan AUGE y la Ley de Divorcio (2004). Michelle Bachelet (2006-2010): Primera mujer presidenta de Chile; impulsó la Reforma Previsional (Pilar Solidario) y el Transantiago.`,
 
     },
   })
@@ -507,40 +386,32 @@ El gobierno de Salvador Allende representa el primer intento en el mundo de cons
       content: `## Constitución y Estado de Derecho
 
 ### Constitución
-La Constitución es la norma fundamental que organiza el poder del Estado, establece los límites de su ejercicio y garantiza los derechos fundamentales de las personas. Es la norma de mayor jerarquía en el ordenamiento jurídico (principio de supremacía constitucional).
 
-**Constitución chilena vigente (1980):**
-- Aprobada en 1980 y reformada en múltiples ocasiones: 1989, 2005 (eliminación de senadores designados y fin del rol tutelar de las FF.AA.) y reformas posteriores.
-- Establece un Estado unitario, no federal.
-- Régimen presidencial: el Presidente es Jefe de Estado y Jefe de Gobierno.
-- Contiene un catálogo de derechos fundamentales (Artículo 19).
-- Consagra el rol subsidiario del Estado en materia económica.
+La Constitución Política de la República es la norma fundamental y suprema del ordenamiento jurídico chileno. Define la organización del Estado, establece los límites del poder público, garantiza los derechos fundamentales de las personas y fija los procedimientos para la creación de las leyes. Como norma suprema, todas las demás normas del ordenamiento jurídico deben ajustarse a sus disposiciones, bajo el principio de supremacía constitucional y el control de constitucionalidad ejercido por el Tribunal Constitucional.
+
+**La Constitución chilena vigente (1980):** Fue aprobada en un plebiscito el 11 de septiembre de 1980 durante la dictadura militar y entró en vigor el 11 de marzo de 1981. Ha sido reformada en múltiples ocasiones, siendo las reformas más significativas las de 1989 (previo al retorno a la democracia), 2005 (eliminación de senadores designados y del rol tutelar de las Fuerzas Armadas) y reformas posteriores en materia de derechos sociales y procesos constituyentes. Establece un Estado unitario, un régimen presidencial de gobierno y un catálogo de derechos fundamentales contenido en el Artículo 19.
 
 ### Estado de Derecho
-Principio fundamental donde todos, gobernantes y gobernados, están sometidos a la ley. Nadie está por encima de la ley.
 
-**Elementos esenciales:**
-- **División de poderes:** Separación orgánica y funcional del poder en tres ramas independientes que se controlan mutuamente.
-- **Principio de legalidad:** Toda actuación del Estado debe estar autorizada por la ley.
-- **Jerarquía normativa:** Constitución > tratados internacionales > leyes > decretos > resoluciones.
-- **Derechos fundamentales:** El Estado debe respetarlos y promoverlos.
-- **Control de constitucionalidad:** Tribunal Constitucional.
+El Estado de Derecho es un principio fundamental según el cual todos los miembros de la sociedad —incluyendo gobernantes y autoridades— están sujetos al imperio de la ley. Nadie está por encima de la ley, y todas las actuaciones del Estado deben realizarse dentro del marco jurídico establecido.
+
+| Elemento | Descripción |
+|----------|-------------|
+| División de poderes | Separación orgánica y funcional en Ejecutivo, Legislativo y Judicial con control recíproco |
+| Principio de legalidad | Toda actuación del Estado debe estar autorizada por una ley previa |
+| Jerarquía normativa | Constitución > Tratados Internacionales > Leyes > Decretos > Resoluciones |
+| Derechos fundamentales | El Estado debe respetarlos, garantizarlos y promoverlos activamente |
+| Control constitucional | Tribunal Constitucional vela por la supremacía de la Constitución |
 
 ### Estructura del Estado chileno
 
-**Poder Ejecutivo:**
-- Presidente de la República (jefe de Estado y de gobierno), elegido por 4 años sin reelección inmediata.
-- Ministros de Estado, Delegados presidenciales regionales y provinciales.
+**Poder Ejecutivo:** El Presidente de la República es Jefe de Estado y Jefe de Gobierno. Es elegido por sufragio popular directo para un período de 4 años, sin posibilidad de reelección inmediata. Cuenta con la colaboración de los Ministros de Estado, los Delegados Presidenciales Regionales y los Delegados Presidenciales Provinciales.
 
-**Poder Legislativo:**
-- Congreso Nacional bicameral: Cámara de Diputados (155 miembros) y Senado (50 miembros).
+**Poder Legislativo:** El Congreso Nacional es bicameral. La Cámara de Diputados está compuesta por 155 miembros elegidos por 4 años. El Senado está compuesto por 50 miembros elegidos por 8 años, renovados por mitades. Ambas cámaras tienen iniciativa legislativa, fiscalizan los actos del Ejecutivo y aprueban el presupuesto nacional.
 
-**Poder Judicial:**
-- Tribunales de justicia: Juzgados de Letras, Cortes de Apelaciones, Corte Suprema.
-- Independencia judicial y principio de inexcusabilidad.
+**Poder Judicial:** Está compuesto por los tribunales de justicia organizados jerárquicamente: Juzgados de Letras, Cortes de Apelaciones y la Corte Suprema. Goza de independencia judicial (los jueces no pueden ser removidos arbitrariamente) y se rige por el principio de inexcusabilidad.
 
-**Órganos autónomos:**
-- Contraloría General de la República, Banco Central, Tribunal Constitucional, Ministerio Público, Defensoría Penal Pública, INDH.
+**Órganos autónomos constitucionales:** Incluyen la Contraloría General de la República (control de legalidad administrativa), el Banco Central (política monetaria autónoma), el Tribunal Constitucional (control de constitucionalidad), el Ministerio Público (investigación penal), la Defensoría Penal Pública (defensa de imputados) y el Instituto Nacional de Derechos Humanos (INDH).
 
 ### 📺 Videos recomendados
 - [Los 3 Poderes del Estado chileno - MINEDUC](https://youtu.be/owpz1Bf7oN0)
@@ -556,57 +427,29 @@ Principio fundamental donde todos, gobernantes y gobernados, están sometidos a 
       moduleId: hMod3.id, name: "Derechos Humanos", slug: "derechos-humanos", order: 2,
       content: `## Derechos Humanos
 
-### Concepto
-Los derechos humanos son facultades, libertades y atributos inherentes a toda persona por su dignidad humana, reconocidos y garantizados por el ordenamiento jurídico nacional e internacional. Son universales, inalienables, indivisibles e interdependientes.
+### Concepto y características
 
-### Generaciones de DD.HH.
+Los derechos humanos (DD.HH.) son facultades, libertades y atributos inherentes a toda persona por el solo hecho de su condición humana, reconocidos y garantizados por el ordenamiento jurídico nacional e internacional. Se fundamentan en el principio de la dignidad humana. Los derechos humanos se caracterizan por ser: **universales** (pertenecen a todas las personas), **inalienables** (no pueden ser transferidos ni renunciados), **indivisibles e interdependientes** (todos tienen igual jerarquía) y **progresivos** (los Estados deben avanzar gradualmente en su realización).
 
-**Primera generación (civiles y políticos):**
-Surgen con las revoluciones burguesas (s. XVIII).
-- Derecho a la vida, libertad e integridad personal.
-- Libertad de expresión, conciencia y religión.
-- Derecho al voto.
-- Derecho a la propiedad privada.
-- Derecho a un juicio justo y debido proceso.
+### Generaciones de derechos humanos
 
-**Segunda generación (económicos, sociales y culturales - DESC):**
-Surgen con las demandas del movimiento obrero (s. XIX-XX).
-- Derecho al trabajo digno y a la sindicalización.
-- Derecho a la salud.
-- Derecho a la educación.
-- Derecho a la vivienda.
-- Derecho a la seguridad social.
+**Primera generación (derechos civiles y políticos):** Surgen con las revoluciones liberales de los siglos XVIII y XIX (Revolución Francesa, Independencia de Estados Unidos). Comprenden el derecho a la vida, la libertad personal, la igualdad ante la ley, la libertad de expresión, conciencia y religión, el derecho al voto, la propiedad privada y el debido proceso. Su titular es el individuo frente al Estado, y su principal exigencia es la abstención del Estado.
 
-**Tercera generación (solidaridad o derechos colectivos):**
-Surgen en la segunda mitad del siglo XX.
-- Derecho al desarrollo.
-- Derecho a un medio ambiente sano.
-- Derecho a la paz.
-- Derecho a la autodeterminación de los pueblos.
+**Segunda generación (derechos económicos, sociales y culturales - DESC):** Emergen con las demandas del movimiento obrero en los siglos XIX y XX, y se consolidan tras la Segunda Guerra Mundial. Incluyen el derecho al trabajo digno y a la sindicalización, el derecho a la salud, la educación, la vivienda, la seguridad social y la alimentación. Exigen una acción positiva del Estado.
 
-### Instrumentos internacionales
+**Tercera generación (derechos de solidaridad o colectivos):** Se desarrollan en la segunda mitad del siglo XX, impulsados por procesos de descolonización y movimientos globales. Comprenden el derecho al desarrollo, a un medio ambiente sano, a la paz y a la autodeterminación de los pueblos.
 
-**Sistema Universal (ONU):**
-- Declaración Universal de los Derechos Humanos (1948).
-- Pacto Internacional de Derechos Civiles y Políticos (1966).
-- Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966).
+**Cuarta generación (emergentes):** Surgen de los avances tecnológicos y biotecnológicos del siglo XXI: derechos relacionados con internet, protección de datos personales, inteligencia artificial e identidad digital.
 
-**Sistema Interamericano (OEA):**
-- Declaración Americana de los Derechos y Deberes del Hombre (1948).
-- Convención Americana sobre Derechos Humanos (Pacto de San José, 1969).
-- Comisión Interamericana de DD.HH. (CIDH) y Corte Interamericana (Corte IDH).
+### Sistema internacional de protección
+
+**Sistema Universal (ONU):** La Declaración Universal de los Derechos Humanos (10 de diciembre de 1948) es el documento fundacional del sistema internacional de derechos humanos. Ha servido como base para tratados vinculantes como el Pacto Internacional de Derechos Civiles y Políticos (1966) y el Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966).
+
+**Sistema Interamericano (OEA):** La Convención Americana sobre Derechos Humanos o Pacto de San José (1969) estableció la Comisión Interamericana de Derechos Humanos (CIDH) y la Corte Interamericana de Derechos Humanos (Corte IDH), cuyas decisiones son vinculantes para los Estados parte, incluyendo Chile.
 
 ### Derechos Humanos en Chile
 
-**Mecanismos nacionales:**
-- Artículo 19 de la Constitución: catálogo de derechos fundamentales.
-- Recurso de protección y recurso de amparo.
-- Instituto Nacional de Derechos Humanos (INDH, 2010).
-- Defensoría de la Niñez (2018).
-
-**Comisiones de verdad:**
-- Informe Rettig (1991): violaciones con resultado de muerte.
-- Informe Valech (2004): prisión política y tortura.
+La Constitución chilena garantiza los derechos fundamentales en su Artículo 19, que enumera 26 numerales desde el derecho a la vida hasta el derecho a vivir en un medio ambiente libre de contaminación. Los principales mecanismos de protección son el recurso de protección (para derechos constitucionales amenazados) y el recurso de amparo (para la libertad personal). El Instituto Nacional de Derechos Humanos (INDH), creado en 2010, tiene la misión de promover y proteger los derechos humanos. La Defensoría de la Niñez fue creada en 2018. Las comisiones de verdad —Informe Rettig (1991) e Informe Valech (2004)— documentaron las violaciones a los derechos humanos durante la dictadura militar y constituyen la base de las políticas de memoria, verdad y justicia en Chile.
 
 ### 📺 Videos recomendados
 - [Derechos Humanos: Primera, Segunda y Tercera Generación - Academia Play](https://youtu.be/J6j7t7-uWok)
@@ -622,41 +465,31 @@ Surgen en la segunda mitad del siglo XX.
       moduleId: hMod3.id, name: "Participación Ciudadana", slug: "participacion-ciudadana", order: 3,
       content: `## Participación Ciudadana
 
-La participación ciudadana es el conjunto de mecanismos mediante los cuales los ciudadanos inciden en las decisiones públicas, fiscalizan la gestión del Estado y contribuyen a la construcción de políticas públicas.
+La participación ciudadana es el conjunto de mecanismos, instituciones y procedimientos mediante los cuales los ciudadanos, individual o colectivamente, inciden en las decisiones públicas, fiscalizan la gestión del Estado, contribuyen a la formulación de políticas públicas y ejercen control sobre las autoridades. En un sistema democrático, la participación ciudadana complementa a la democracia representativa con formas de democracia directa y participativa que fortalecen la legitimidad del sistema político.
 
 ### Mecanismos de participación en Chile
 
-**Voto:**
-- Derecho y deber constitucional de todo ciudadano mayor de 18 años.
-- **Voto voluntario desde 2012** (Ley 20.568), antes era obligatorio.
-- **Inscripción automática** en el SERVEL.
-- Voto en el extranjero para elecciones presidenciales (desde 2017).
+**Voto:** Es el principal mecanismo de participación política. En Chile, el sufragio es un derecho y un deber constitucional de todos los ciudadanos mayores de 18 años. Desde 2012 (Ley 20.568), el voto es voluntario pero la inscripción en los registros electorales es automática a través del SERVEL. El voto en el extranjero para elecciones presidenciales está vigente desde 2017.
 
-**Plebiscito:**
-- Consulta nacional o comunal para someter una decisión política a votación popular.
-- Plebiscitos históricos: 1925 (nueva Constitución), 1988 (continuidad de Pinochet), 2020 (nueva Constitución), 2022 y 2023 (procesos constituyentes).
+**Plebiscito:** Consulta popular para someter una decisión política a votación. Los plebiscitos más importantes de la historia reciente son: 1925 (nueva Constitución), 1988 (continuidad de Pinochet), 2020 (nueva Constitución), 2022 y 2023 (procesos constituyentes).
 
-**Iniciativa popular de ley:** Mecanismo para que ciudadanos presenten proyectos de ley (no implementado plenamente).
+**Iniciativa popular de ley:** Mecanismo constitucional que permite a ciudadanos presentar proyectos de ley. En los procesos constituyentes (2021-2023) se implementó la iniciativa popular de norma, que permitió a la ciudadanía presentar propuestas de normas constitucionales.
 
-**Cuenta pública:** Obligación del Presidente de informar al país (1 de junio de cada año).
+**Cuenta pública:** El Presidente de la República tiene la obligación constitucional de rendir cuenta al país cada 1 de junio.
 
-**Presupuestos participativos:** Mecanismos municipales donde los vecinos deciden parte del gasto comunal.
+**Presupuestos participativos:** Mecanismo municipal donde los vecinos deciden directamente una parte del presupuesto comunal, priorizando proyectos e inversiones.
 
 ### Partidos políticos
-Organizaciones que representan intereses y programas de gobierno. Funcionan como intermediarios entre la sociedad y el Estado.
 
-**Funciones:** Reclutar candidatos, formular programas, canalizar demandas, formar opinión pública, fiscalizar autoridades.
-
-**Sistema de partidos en Chile:** PC, PS, PPD, DC (centroizquierda); RN, UDI (centroderecha); FA, Republicano, PDG, Evópoli, PL (emergentes).
-
-### Organizaciones de la sociedad civil
-- Sindicatos, juntas de vecinos, centros de padres, centros de estudiantes, ONGs, asociaciones gremiales.
+Los partidos políticos son organizaciones de interés público que canalizan la participación política, reclutan candidatos, formulan programas de gobierno y articulan las demandas de la sociedad. En Chile, el sistema de partidos incluye: Partido Comunista (PC), Partido Socialista (PS), Partido por la Democracia (PPD), Democracia Cristiana (DC) en el centroizquierda; Renovación Nacional (RN), Unión Demócrata Independiente (UDI), Evópoli en la centroderecha; y partidos emergentes como el Frente Amplio (FA), Republicano, Partido de la Gente (PDG) y Demócratas.
 
 ### Sistema electoral
-- **Sistema proporcional (método D'Hondt, desde 2015):** Reemplazó al sistema binominal (1989-2013) que favorecía a las dos grandes coaliciones.
-- 28 distritos (Cámara) y 16 circunscripciones (Senado).
-- Ley de cuotas de género (máximo 60% de un género en candidaturas).
-- Financiamiento electoral regulado: prohibidos los aportes empresariales (desde 2016).
+
+El sistema electoral chileno actual se basa en el método proporcional D'Hondt, implementado desde 2015 en reemplazo del sistema binominal (1989-2013) que favorecía a las dos grandes coaliciones. El país está dividido en 28 distritos para diputados y 16 circunscripciones para senadores. El sistema incluye una ley de cuotas de género (máximo 60% de candidaturas de un mismo género) y un sistema de financiamiento electoral regulado que prohíbe los aportes empresariales desde 2016.
+
+### Organizaciones de la sociedad civil
+
+Incluyen sindicatos, juntas de vecinos, centros de padres, centros de estudiantes, organizaciones no gubernamentales (ONGs), asociaciones gremiales y fundaciones. Estas organizaciones ejercen un rol de intermediación entre la ciudadanía y el Estado, canalizando demandas sociales y participando en la formulación e implementación de políticas públicas.
 
 ### 📺 Videos recomendados
 - [Sistema Electoral Chileno - MINEDUC](https://youtu.be/QFSJ_ztf4Lc)
@@ -675,56 +508,43 @@ Organizaciones que representan intereses y programas de gobierno. Funcionan como
       moduleId: hMod4.id, name: "Conceptos Económicos Fundamentales", slug: "conceptos-economicos", order: 1,
       content: `## Conceptos Económicos Fundamentales
 
-### Economía
-Ciencia social que estudia cómo las sociedades administran recursos escasos para satisfacer necesidades humanas que son ilimitadas.
+### La economía como ciencia social
 
-**Microeconomía:** Estudio de decisiones de agentes individuales (hogares, empresas) y mercados específicos.
-**Macroeconomía:** Estudio de la economía en su conjunto (crecimiento, inflación, desempleo).
+La economía es la ciencia social que estudia la asignación de recursos escasos para satisfacer necesidades humanas que son ilimitadas. Esta definición, acuñada por Lionel Robbins en 1932, refleja el problema económico fundamental: los recursos productivos son limitados mientras que las necesidades humanas son potencialmente infinitas. La economía se divide en dos grandes ramas: la **microeconomía**, que analiza el comportamiento de los agentes individuales (hogares, empresas, mercados), y la **macroeconomía**, que estudia la economía en su conjunto (crecimiento, inflación, desempleo, políticas económicas).
 
 ### Agentes económicos
-- **Familias:** Consumen bienes y servicios, ofrecen trabajo. Dueñas de factores productivos.
-- **Empresas:** Producen bienes y servicios, demandan trabajo. Buscan maximizar beneficios.
-- **Estado:** Regula, provee bienes públicos, redistribuye el ingreso, estabiliza la economía.
-- **Sector externo:** Relaciones comerciales y financieras con otros países.
+
+| Agente | Función principal | Objetivo |
+|--------|------------------|----------|
+| Familias | Consumen bienes y servicios, ofrecen trabajo | Maximizar su bienestar o utilidad |
+| Empresas | Producen bienes y servicios, demandan trabajo | Maximizar beneficios |
+| Estado | Regula, provee bienes públicos, redistribuye, estabiliza | Maximizar el bienestar social |
+| Sector externo | Relaciones comerciales y financieras internacionales | Obtener ventajas comparativas |
 
 ### Factores productivos
-- **Tierra:** Recursos naturales (minerales, tierra, agua, bosques).
-- **Trabajo:** Esfuerzo humano aplicado a la producción.
-- **Capital:** Bienes producidos usados para producir (maquinaria, herramientas, edificios).
-- **Capital humano:** Conocimientos, habilidades y experiencia de los trabajadores.
 
-### Mercado
-Espacio donde oferentes y demandantes intercambian bienes y servicios.
+Los recursos o factores productivos son los insumos necesarios para producir bienes y servicios. La economía clásica identifica tres factores: **tierra** (recursos naturales, minerales, territorio), **trabajo** (esfuerzo humano físico e intelectual) y **capital** (bienes producidos utilizados para producir otros bienes: maquinaria, herramientas, edificios, infraestructura). La economía moderna añade el **capital humano** (conocimientos, habilidades, educación y experiencia) y la **capacidad empresarial**.
 
-**Tipos de mercado:**
-- **Competencia perfecta:** Muchos oferentes y demandantes, productos homogéneos. Nadie influye en el precio.
-- **Monopolio:** Un solo oferente, fija el precio.
-- **Oligopolio:** Pocos oferentes que pueden coludirse.
-- **Competencia monopolística:** Muchos oferentes con productos diferenciados.
+### El mercado y la formación de precios
 
-### Ley de oferta y demanda
-- **Oferta:** A mayor precio, mayor cantidad ofrecida (relación directa).
-- **Demanda:** A mayor precio, menor cantidad demandada (relación inversa).
-- **Precio de equilibrio:** Punto donde oferta = demanda.
+El mercado es el mecanismo mediante el cual oferentes (vendedores) y demandantes (compradores) intercambian bienes y servicios. La **ley de la oferta** establece una relación directa entre precio y cantidad ofrecida: a mayor precio, mayor cantidad ofrecida. La **ley de la demanda** establece una relación inversa: a mayor precio, menor cantidad demandada. El **precio de equilibrio** es aquel donde la cantidad ofrecida iguala a la cantidad demandada, sin excedentes ni escasez.
 
-### Indicadores económicos
+| Estructura de mercado | N° de oferentes | Tipo de producto | Capacidad de fijar precio |
+|----------------------|----------------|-----------------|--------------------------|
+| Competencia perfecta | Muchos | Homogéneo | Ninguna (precio aceptante) |
+| Competencia monopolística | Muchos | Diferenciado | Limitada |
+| Oligopolio | Pocos | Homogéneo o diferenciado | Significativa (posible colusión) |
+| Monopolio | Uno | Único | Total (fija el precio) |
 
-**PIB (Producto Interno Bruto):**
-- Valor de todos los bienes y servicios finales producidos en un país.
-- PIB nominal (precios corrientes) vs. PIB real (precios constantes, ajustado por inflación).
-- PIB per cápita = PIB / población.
+### Indicadores macroeconómicos fundamentales
 
-**Inflación:**
-- Aumento sostenido del nivel general de precios.
-- **IPC (Índice de Precios al Consumidor):** Mide variación de precios de una canasta fija de bienes.
-- Causas: Exceso de demanda, aumento de costos, emisión monetaria.
+**Producto Interno Bruto (PIB):** Es el valor monetario de todos los bienes y servicios finales producidos dentro de las fronteras de un país durante un período determinado. El PIB nominal mide el valor a precios corrientes, mientras que el PIB real ajusta por inflación. El PIB per cápita (PIB dividido por la población) es un indicador aproximado del nivel de vida promedio.
 
-**Desempleo:**
-- Porcentaje de la fuerza laboral sin trabajo que busca activamente.
-- Tipos: friccional, estructural, cíclico.
+**Inflación:** Es el aumento sostenido y generalizado del nivel de precios. Se mide mediante el Índice de Precios al Consumidor (IPC), que refleja la variación de precios de una canasta de bienes representativa del consumo de los hogares. El Banco Central de Chile tiene como objetivo mantener la inflación en torno al 3% anual. Las causas de la inflación pueden ser por demanda, por costos o monetarias.
 
-**Tasa de interés:**
-- Precio del dinero. La TPM (Tasa de Política Monetaria) la fija el Banco Central.
+**Desempleo:** Es la proporción de la fuerza laboral que no tiene empleo pero busca activamente trabajo. Se clasifica en desempleo friccional (transitorio), estructural (desajuste de habilidades) y cíclico (asociado a recesiones).
+
+**Tasa de interés:** Es el precio del dinero. La Tasa de Política Monetaria (TPM) es fijada por el Banco Central y constituye la principal herramienta de la política monetaria.
 
 ### 📺 Videos recomendados
 - [Oferta y Demanda en 10 minutos - Academia Play](https://youtu.be/Wn0OGztLbnk)
@@ -740,56 +560,36 @@ Espacio donde oferentes y demandantes intercambian bienes y servicios.
       moduleId: hMod4.id, name: "Modelo Económico Chileno", slug: "modelo-economico-chileno", order: 2,
       content: `## Modelo Económico Chileno
 
-El modelo económico chileno actual es resultado de las reformas estructurales implementadas durante la dictadura militar (1975 en adelante) y mantenidas (con ajustes) por los gobiernos democráticos posteriores.
+El modelo económico chileno actual es el resultado de las reformas estructurales implementadas a partir de 1975 durante la dictadura militar, que reemplazaron el modelo de industrialización sustitutiva de importaciones (ISI) vigente desde la década de 1930 por uno basado en el libre mercado, la apertura comercial, las privatizaciones y el rol subsidiario del Estado. Este modelo, conocido como el neoliberalismo chileno o el modelo Chicago, fue mantenido y ajustado por los gobiernos democráticos de la Concertación (1990-2010), que introdujeron reformas sociales y regulaciones manteniendo los pilares fundamentales del sistema. Sus resultados han sido mixtos: crecimiento económico sostenido y reducción significativa de la pobreza, pero también persistencia de la desigualdad y problemas en pensiones, salud y educación.
 
-### Origen: El modelo neoliberal
+### Origen: el giro neoliberal
 
-**Chicago Boys:**
-- Economistas chilenos formados en la Universidad de Chicago bajo Milton Friedman.
-- Asumieron el control de la política económica desde 1975.
-- Objetivo: reemplazar el modelo de industrialización sustitutiva de importaciones (ISI) por uno de libre mercado.
+**Los Chicago Boys:** A mediados de la década de 1970, un grupo de economistas chilenos formados en la Universidad de Chicago bajo Milton Friedman —conocidos como los Chicago Boys— asumieron el control de la política económica. Su diagnóstico era que el modelo ISI había agotado su capacidad de crecimiento, generando ineficiencia, inflación crónica y dependencia del Estado.
 
-**Reformas estructurales (1975-1989):**
-- **Privatizaciones:** Más de 500 empresas estatales vendidas al sector privado.
-- **Apertura comercial:** Aranceles reducidos de más de 100% a un 10% uniforme.
-- **Liberalización de precios.**
-- **Reforma previsional (1981):** AFP, capitalización individual.
-- **Reforma de salud (1981):** ISAPRES.
-- **Liberalización financiera.**
-- **Reforma laboral:** Debilitamiento sindical, flexibilización del despido.
+**Reformas estructurales (1975-1989):** Incluyeron la eliminación del control de precios, la reducción unilateral de aranceles (de un promedio de 105% a un 10% uniforme), la liberalización financiera, la privatización de más de 500 empresas estatales, la reforma previsional (AFP, 1981), la reforma de salud (ISAPRES, 1981) y una nueva legislación laboral que flexibilizó el despido.
 
-### Elementos clave del modelo
+### Pilares del modelo
 
-**Banco Central autónomo (desde 1989):** Controla la inflación mediante política monetaria. Prohibido financiar al fisco.
+| Pilar | Característica | Institución clave |
+|-------|---------------|------------------|
+| Autonomía del Banco Central | Política monetaria independiente, objetivo de inflación | Banco Central (autónomo desde 1989) |
+| Sistema de pensiones | Capitalización individual, AFP | AFP privadas, reguladas por Superintendencia |
+| Sistema de salud | Seguros privados (ISAPRES) y sistema público (FONASA) | ISAPRES, FONASA |
+| Apertura comercial | TLCs, aranceles bajos, inserción global | Subsecretaría de Relaciones Económicas Internacionales |
+| Tipo de cambio flotante | Valor del peso determinado por el mercado | Banco Central |
+| Regla de balance estructural | Política fiscal contracíclica | Dipres, Ministerio de Hacienda |
 
-**AFP:** Ahorro individual obligatorio (10% del salario). Críticas: bajas pensiones, altas comisiones.
+### Fortalezas del modelo
 
-**ISAPRES:** Sistema privado de salud. Críticas: selección adversa, costos elevados, segmentación.
+Entre 1990 y 2010, Chile creció a una tasa promedio del 5% anual, una de las más altas de América Latina. La pobreza se redujo del 38,6% (1990) a aproximadamente el 8% (2020). La inflación se mantuvo baja y estable (en torno al 3% anual). Chile obtuvo el grado de inversión de las principales clasificadoras de riesgo. La política fiscal responsable —basada en la regla de balance estructural y los fondos soberanos FEES (Fondo de Estabilización Económica y Social, 2006) y FRP (Fondo de Reserva de Pensiones)— permitió al país enfrentar crisis internacionales con solidez fiscal.
 
-**Apertura comercial:** Chile tiene TLC con EE.UU., China, UE, Japón, Corea, etc.
+### Debilidades y críticas
 
-**Tipo de cambio flotante:** El valor del peso se determina en el mercado de divisas.
+La desigualdad de ingresos, medida por el coeficiente de Gini, es una de las más altas entre los países de la OCDE. El sistema de AFP ha sido criticado por generar pensiones insuficientes (bajas tasas de reemplazo) y altas comisiones. Las ISAPRES han sido acusadas de selección adversa y costos elevados. La concentración de mercados en pocos conglomerados (oligopolios en retail, banca, farmacias, AFP, ISAPRES) es una falla estructural señalada recurrentemente. El endeudamiento de las familias alcanzó niveles elevados y la precarización laboral ha sido una característica persistente.
 
-### Fortalezas y debilidades
+### Reformas recientes
 
-**Fortalezas:**
-- Crecimiento sostenido (5% anual promedio 1990-2010).
-- Reducción de pobreza: de 38.6% (1990) a ~8% actual.
-- Estabilidad macroeconómica (baja inflación, finanzas ordenadas).
-- Grado de inversión.
-
-**Debilidades:**
-- Alta desigualdad (Gini elevado entre países OCDE).
-- Endeudamiento de las familias.
-- Bajas pensiones del sistema AFP.
-- Concentración de mercados (oligopolios).
-- Precarización laboral.
-- Sistema de salud segmentado.
-
-### Política fiscal
-- **Regla de balance estructural:** Ahorrar en bonanza para gastar en crisis.
-- **FEES (Fondo de Estabilización Económica y Social, 2006):** Ahorro de excedentes del cobre.
-- **FRP (Fondo de Reserva de Pensiones).**
+Los gobiernos posteriores a 2010 han introducido reformas para corregir las debilidades del modelo: Reforma Tributaria (2014), Reforma Laboral (2016), Reforma al Sistema de Pensiones (Pilar Solidario, 2008; proyecto de reforma estructural en discusión), Ley de Techo para las Tasas de Interés (2021), y los procesos constituyentes que buscaban redefinir el rol del Estado en la economía.
 
 ### 📺 Videos recomendados
 - [Los Chicago Boys y el Neoliberalismo en Chile - Cuaderno de Historia](https://youtu.be/RAzQTYeR47w)
@@ -875,38 +675,40 @@ El modelo económico chileno actual es resultado de las reformas estructurales i
       moduleId: lMod1.id, name: "Extracción de Información Explícita", slug: "extraccion-informacion", order: 1,
       content: `## Extracción de Información Explícita
 
-La extracción de información explícita consiste en identificar y recuperar datos, ideas o detalles que aparecen de manera directa y literal en un texto. No requiere interpretación, inferencia ni juicio crítico; solo localizar la información tal como está escrita.
+La extracción de información explícita es la habilidad lectora fundamental que consiste en identificar, localizar y recuperar datos, ideas o detalles que aparecen de manera directa y literal en un texto. Esta competencia constituye la base de la comprensión lectora, pues no requiere interpretación, inferencia ni juicio crítico, sino únicamente la capacidad de localizar información tal como está escrita. Es la primera de las tres habilidades evaluadas en la prueba de Competencia Lectora de la PAES, y su dominio es requisito indispensable para desarrollar las habilidades superiores de comprensión e inferencia y evaluación crítica. En la vida cotidiana, esta habilidad se aplica constantemente: al buscar un número de teléfono, una fecha de vencimiento, una dirección o un dato específico en un instructivo.
 
 ### ¿Qué preguntas busca responder?
+
 - "Según el texto, ¿cuándo ocurrió X evento?"
 - "El autor menciona que... ¿cuál es la causa?"
 - "¿Qué significa la palabra X en el primer párrafo?"
 - "¿Cuántas personas participaron según el texto?"
 - "¿Dónde se realizó la actividad descrita?"
 
+La clave de estas preguntas es que la respuesta está literalmente escrita en el texto, sin necesidad de deducir, interpretar o evaluar.
+
 ### Estrategias específicas
 
-**1. Identificar palabras clave en la pregunta:**
-- Lee la pregunta y subraya las palabras más importantes (nombres propios, fechas, lugares, cifras).
-- Busca esas mismas palabras (o sinónimos directos) en el texto.
+**Identificación de palabras clave:** El primer paso consiste en leer cuidadosamente la pregunta e identificar las palabras más significativas: nombres propios, fechas, lugares, cantidades, cifras o términos técnicos. Estas palabras clave son la puerta de entrada a la información en el texto.
 
-**2. Escaneo (scanning):**
-- Técnica de lectura rápida que busca información específica sin leer palabra por palabra.
-- Desplaza la vista rápidamente por el texto buscando la palabra clave.
-- Especialmente útil en textos con datos numéricos, fechas o nombres.
+**Técnica de escaneo (scanning):** El escaneo es una técnica de lectura rápida y selectiva en la que el lector desplaza la vista rápidamente por el texto en busca de la palabra clave o sus sinónimos. Esta técnica es particularmente útil cuando se busca información específica como fechas (1810, 1973), nombres (Allende, Portales) o cifras (36,6%, 55,99%).
 
-**3. Localización por paráfrasis:**
-- A veces la respuesta no usa las mismas palabras exactas, sino sinónimos.
-- Ejemplo: Pregunta: "¿Qué beneficio obtenían los trabajadores?" Texto: "Los operarios recibían como ventaja..." → "beneficio" = "ventaja", "trabajadores" = "operarios".
+**Localización por paráfrasis:** En muchos casos, la pregunta utiliza palabras diferentes a las del texto, aunque con el mismo significado. Por ejemplo, si la pregunta usa beneficio y el texto dice ventaja, el lector debe reconocer esta equivalencia semántica. El reconocimiento de sinónimos y paráfrasis es crucial para localizar información correctamente.
 
-**4. Distinción entre información principal y secundaria:**
-- Identifica qué datos son centrales y cuáles son detalles accesorios o ejemplos.
+**Distinción entre información principal y secundaria:** No toda la información en un texto tiene la misma relevancia. La información principal constituye el núcleo del mensaje, mientras que la información secundaria son detalles, ejemplos y aclaraciones.
 
-### Tipos de texto
-- **Expositivos:** artículos científicos, enciclopedias, manuales, noticias.
-- **Instructivos:** recetas, manuales de uso, reglamentos.
-- **Narrativos:** cuentos, novelas, crónicas (personajes, tiempo, espacio, acciones).
-- **Argumentativos:** columnas de opinión, editoriales (datos y citas explícitas).
+### Tipologías textuales y estrategias
+
+| Tipo de texto | Características | Estrategia de extracción |
+|--------------|-----------------|-------------------------|
+| Expositivo | Hechos, datos, definiciones | Buscar conceptos, fechas y cifras |
+| Narrativo | Personajes, tiempo, espacio, acciones | Identificar quién, cuándo, dónde |
+| Argumentativo | Tesis, argumentos, evidencias | Localizar la tesis y los argumentos |
+| Instructivo | Pasos, procedimientos, reglas | Seguir la secuencia de acciones |
+
+### Errores comunes
+
+Confundir información explícita con inferida (agregar información que no está en el texto), seleccionar información parcial (elegir solo parte de la respuesta) y distraerse con información secundaria (elegir datos llamativos pero que no responden la pregunta).
 
 ### 📺 Videos recomendados
 - [Estrategias de Comprensión Lectora - Puntaje Nacional PAES](https://youtu.be/dTq6p2VYKT0)
@@ -921,46 +723,36 @@ La extracción de información explícita consiste en identificar y recuperar da
       moduleId: lMod2.id, name: "Comprensión e Inferencia", slug: "comprension-inferencia", order: 1,
       content: `## Comprensión e Inferencia
 
-La comprensión e inferencia implica ir más allá de la información explícita para entender el significado profundo del texto, establecer relaciones entre ideas y extraer conclusiones que no están escritas directamente.
+La comprensión e inferencia es la habilidad lectora de nivel intermedio que implica ir más allá de la información explícita para entender el significado profundo del texto, establecer relaciones entre ideas, identificar el propósito comunicativo del autor y extraer conclusiones que no están escritas directamente pero que se pueden deducir lógicamente. Mientras que la extracción de información explícita responde a la pregunta ¿qué dice exactamente el texto?, la comprensión e inferencia responde a ¿qué quiere decir el texto?, ¿qué relaciones existen entre las ideas? y ¿qué conclusiones se pueden extraer?
 
 ### Diferencia entre información explícita e implícita
 
 | Información explícita | Información implícita / inferida |
 |---|---|
-| Está escrita directamente | No está escrita, se deduce |
-| Se localiza (no se interpreta) | Se interpreta (no se localiza) |
-| Ej: "Eran las 3 de la tarde" | Ej: "El sol estaba en lo más alto" → es mediodía |
+| Está escrita directamente en el texto | No está escrita, se deduce del texto |
+| Se localiza mediante escaneo | Se interpreta mediante razonamiento |
+| Ejemplo: "Eran las 3 de la tarde" | Ejemplo: "El sol estaba en lo más alto" → es mediodía |
+| Ejemplo: "María abrió un paraguas" | → se infiere que está lloviendo o va a llover |
 
-### Habilidades inferenciales
+### Habilidades inferenciales fundamentales
 
-**1. Identificar ideas principales y secundarias:**
-- Idea principal = mensaje central o tesis del texto.
-- Ideas secundarias = detalles, ejemplos, explicaciones que apoyan la idea principal.
+**Identificación de ideas principales y secundarias:** La idea principal es el mensaje central o la tesis del texto, aquello que el autor quiere comunicar fundamentalmente. Las ideas secundarias son los detalles, ejemplos, explicaciones y argumentos que apoyan, desarrollan o ilustran la idea principal. Distinguir entre unas y otras es esencial para comprender la estructura lógica del texto.
 
-**2. Establecer relaciones lógicas:**
-- **Causa-efecto:** "porque", "ya que", "debido a", "por lo tanto", "en consecuencia".
-- **Problema-solución:** conflicto y alternativas de solución.
-- **Comparación-contraste:** "similarmente", "a diferencia de", "mientras que".
-- **Secuencia temporal:** "primero", "luego", "después", "finalmente".
+**Establecimiento de relaciones lógicas:** Los textos establecen diversas relaciones entre las ideas: causa-efecto (porque, ya que, debido a, por lo tanto, en consecuencia), problema-solución (conflicto y alternativas de solución), comparación-contraste (similarmente, a diferencia de, mientras que) y secuencia temporal (primero, luego, después, finalmente).
 
-**3. Realizar inferencias:**
-- Sacar conclusiones no escritas explícitamente pero deducibles lógicamente.
-- **Inferencia pragmática:** intención del hablante.
-- **Inferencia causal:** causas no mencionadas a partir de efectos descritos.
-- Ejemplo: "María tomó un paraguas" → inferencia: "estaba lloviendo o había probabilidad de lluvia".
+**Realización de inferencias:** La inferencia es el proceso cognitivo mediante el cual se extraen conclusiones que no están expresadas explícitamente pero que se siguen lógicamente de la información disponible. Existen varios tipos: inferencia pragmática (identificar la intención del hablante más allá de sus palabras literales), inferencia causal (deducir causas no mencionadas a partir de los efectos descritos), inferencia predictiva (anticipar lo que podría ocurrir después) e inferencia de significado contextual (deducir el significado de una palabra desconocida a partir del contexto).
 
-**4. Determinar el propósito comunicativo del autor:**
-- **Informativo:** entregar datos objetivos (expositivos, noticias).
-- **Persuasivo:** convencer al lector (argumentativos, publicidad).
-- **Estético:** crear experiencia artística (poesía, cuentos literarios).
-- **Apelativo:** llamar a la acción (propaganda, discursos).
+**Determinación del propósito comunicativo:** Todo texto tiene un propósito: informar (transmitir datos objetivos), persuadir (convencer al lector de una postura), entretener (crear experiencia estética) o apelar (llamar a la acción).
 
-**5. Analizar la estructura textual:**
-- **Narrativo:** personajes, conflicto, tiempo, espacio. Inicio-desarrollo-desenlace.
-- **Argumentativo:** tesis-argumentos-conclusión.
-- **Expositivo:** introducción-desarrollo-conclusión.
-- **Dialogado:** conversaciones (teatro, entrevistas).
-- **Descriptivo:** características de personas, objetos, lugares.
+### Estructura textual según el tipo de texto
+
+| Tipo textual | Estructura típica | Propósito |
+|-------------|-------------------|-----------|
+| Narrativo | Inicio - Desarrollo - Desenlace | Relatar hechos o historias |
+| Argumentativo | Tesis - Argumentos - Conclusión | Convencer o persuadir |
+| Expositivo | Introducción - Desarrollo - Conclusión | Informar o explicar |
+| Descriptivo | Caracterización detallada | Describir personas, objetos o lugares |
+| Dialogado | Intercambio de intervenciones | Representar conversaciones |
 
 ### 📺 Videos recomendados
 - [Cómo hacer inferencias al leer - MINEDUC](https://youtu.be/3LBQvV3kOoE)
@@ -975,53 +767,36 @@ La comprensión e inferencia implica ir más allá de la información explícita
       moduleId: lMod3.id, name: "Evaluación Crítica", slug: "evaluacion-critica", order: 1,
       content: `## Evaluación Crítica
 
-La evaluación crítica es la habilidad lectora de más alto nivel. Implica emitir juicios fundamentados sobre el texto, evaluar la calidad de su argumentación, identificar sesgos y manipulación, y reflexionar sobre el contenido desde una perspectiva personal y contextual.
+La evaluación crítica es la habilidad lectora de más alto nivel en la jerarquía de competencias evaluadas en la PAES. Implica emitir juicios fundamentados sobre el texto, evaluar la calidad y pertinencia de su argumentación, identificar sesgos, falacias y posibles manipulaciones, y reflexionar sobre el contenido desde una perspectiva personal informada y contextualizada. A diferencia de la extracción de información (que busca datos literales) y la comprensión e inferencia (que busca el significado implícito), la evaluación crítica no se limita a entender el texto, sino que lo interpela, lo cuestiona y lo valora. Esta competencia es esencial para el ejercicio de una ciudadanía informada, especialmente en un contexto de sobrecarga informativa y noticias falsas.
 
 ### Habilidades de evaluación crítica
 
-**1. Evaluar la calidad de la argumentación:**
-- **Solidez de las evidencias:** ¿Los datos son verificables? ¿Las fuentes son confiables?
-- **Pertinencia de los ejemplos:** ¿Realmente apoyan la tesis o son anecdóticos?
-- **Suficiencia de la información:** ¿Hay suficiente evidencia o se generaliza a partir de casos aislados?
-- **Razonamiento lógico:** ¿Las conclusiones se siguen de las premisas?
+**Evaluación de la calidad argumentativa:** El primer paso consiste en analizar la solidez de la argumentación: ¿las evidencias son verificables? ¿provienen de fuentes confiables? ¿son pertinentes para la tesis? ¿hay suficiente evidencia o se generaliza a partir de casos aislados? Un argumento sólido debe basarse en evidencia suficiente, relevante y confiable.
 
-**2. Identificar la intención del emisor y el público objetivo:**
-- ¿El autor es parcial u objetivo? ¿Qué intereses puede tener?
-- ¿A quién va dirigido? ¿Lenguaje accesible o excluyente?
-- ¿Busca informar, persuadir, manipular, entretener?
+**Identificación de la intención del emisor y el público objetivo:** Todo texto es producido por alguien con una intención específica y dirigido a un público particular. Evaluar críticamente implica preguntarse: ¿quién es el autor y qué intereses puede tener? ¿Es parcial u objetivo? ¿Busca informar, persuadir, manipular o entretener?
 
-**3. Detectar sesgos, falacias o manipulación:**
+### Detección de sesgos, falacias y manipulación
 
-**Sesgos comunes:**
-- **Sesgo de confirmación:** Solo evidencias que apoyan la postura del autor.
-- **Sesgo político o ideológico:** Alineado con una visión del mundo sin explicitarlo.
-- **Sesgo cultural o etnocéntrico:** Juzgar otras culturas desde los valores propios.
+**Sesgos:** El sesgo de confirmación selecciona solo evidencia que apoya la postura del autor. El sesgo político o ideológico presenta una visión del mundo como la única válida. El sesgo cultural o etnocéntrico juzga otras culturas desde los valores propios.
 
-**Falacias argumentativas:**
-- **Ad hominem:** Atacar a la persona, no al argumento.
-- **Falsa causalidad:** Asumir que porque A ocurrió antes que B, A causó B.
-- **Falso dilema:** Solo dos opciones cuando hay más.
-- **Generalización apresurada:** Conclusión general a partir de casos insuficientes.
-- **Apelación a la autoridad:** Cita fuera de contexto.
-- **Pendiente resbaladiza:** Un paso pequeño lleva inevitablemente a una catástrofe.
-- **Petición de principio:** Argumento circular.
+**Falacias argumentativas:** Son razonamientos incorrectos con apariencia de validez. Incluyen: ad hominem (atacar a la persona en lugar del argumento), falsa causalidad (asumir que porque A ocurrió antes que B, A causó B), falso dilema (presentar solo dos opciones cuando hay más), generalización apresurada (concluir algo general a partir de casos insuficientes), apelación a la autoridad (cita fuera de contexto), pendiente resbaladiza (afirmar que un paso pequeño llevará inevitablemente a una catástrofe) y petición de principio (argumento circular).
 
-**Manipulación:**
-- Lenguaje emotivo o cargado.
-- Omisión selectiva de información.
-- Repetición para generar familiaridad.
-- Apelación al miedo o esperanza sin evidencia.
+| Falacia | Descripción | Ejemplo |
+|---------|-------------|---------|
+| Ad hominem | Atacar a la persona | "No podemos creerle, es un político corrupto" |
+| Falsa causalidad | A antes de B implica que A causó B | "Desde que llegó el nuevo alcalde, llueve más" |
+| Falso dilema | Solo dos opciones cuando hay más | "O estás con nosotros o contra nosotros" |
+| Generalización apresurada | Conclusión general de casos insuficientes | "Conocí a dos franceses antipáticos, todos son así" |
 
-**4. Valorar recursos lingüísticos:**
-- Figuras retóricas (metáforas, ironía, sátira, hipérbole).
-- Tono (objetivo, sarcástico, solemne, informal, agresivo).
-- Registro (formal/informal, técnico/divulgativo).
+**Manipulación:** Incluye lenguaje emotivo o cargado, omisión selectiva de información, repetición para generar familiaridad, apelación al miedo o esperanza sin evidencia.
 
-**5. Relacionar el texto con conocimientos previos:**
-- ¿Coincide con lo que sabes? ¿Hay contradicciones con otras fuentes?
+### Valoración de recursos lingüísticos
 
-**6. Comparar distintas perspectivas sobre un mismo tema:**
-- ¿Cómo aborda el mismo tema otro autor? ¿Hay consenso o controversia?
+El lenguaje no es neutral. La evaluación crítica implica analizar el tono (objetivo, sarcástico, solemne), el registro (formal, informal, técnico) y las figuras retóricas (metáforas, ironía, sátira, hipérbole). Estos elementos revelan la postura del autor y pueden orientar la interpretación en una dirección determinada.
+
+### Relación con conocimientos previos
+
+El lector crítico debe relacionar el contenido del texto con sus conocimientos previos y otras fuentes de información: ¿coincide lo que dice el texto con lo que sabemos? ¿hay contradicciones? ¿qué perspectivas alternativas existen? Un lector crítico no acepta pasivamente el contenido, sino que lo interroga, lo contrasta y forma su propio juicio fundamentado.
 
 ### 📺 Videos recomendados
 - [Falacias Argumentativas - Academia Play](https://youtu.be/u3tGxb3JFTA)
@@ -1078,36 +853,29 @@ La evaluación crítica es la habilidad lectora de más alto nivel. Implica emit
       moduleId: m1Mod1.id, name: "Números Enteros y Racionales", slug: "enteros-racionales", order: 1,
       content: `## Números Enteros y Racionales
 
+Los números son los conceptos fundamentales de la matemática y constituyen la base sobre la cual se construyen todas las operaciones y relaciones matemáticas posteriores. El estudio de los números enteros y racionales es esencial para la prueba de Matemática M1 de la PAES, ya que estas nociones se aplican en contextos cotidianos, financieros, científicos y técnicos.
+
 ### Números enteros (ℤ)
-Son los números positivos, negativos y el cero: ..., -3, -2, -1, 0, 1, 2, 3, ...
 
-**Operaciones básicas:**
-- **Suma y resta:** Signos iguales se suman y conservan el signo. Signos diferentes se restan y se coloca el signo del número de mayor valor absoluto. Ej: (-5) + (-3) = -8; (-7) + 4 = -3.
-- **Multiplicación y división:** Regla de signos: (+) × (+) = (+); (+) × (-) = (-); (-) × (-) = (+). Ej: (-4) × 3 = -12; (-6) × (-2) = 12.
+El conjunto de los números enteros incluye los números naturales (1, 2, 3...), sus opuestos negativos (-1, -2, -3...) y el cero (0): ℤ = {..., -3, -2, -1, 0, 1, 2, 3, ...}. Los números enteros son fundamentales para representar situaciones que involucran deudas, temperaturas bajo cero, altitudes bajo el nivel del mar y desplazamientos en sentidos opuestos.
 
-**Propiedades:** Cerradura, conmutatividad, asociatividad, distributividad, elemento neutro (0 suma, 1 multiplicación).
+**Operaciones básicas:** En la suma y resta, cuando los signos son iguales se suman los valores absolutos y se conserva el signo; cuando los signos son diferentes se restan los valores absolutos y se coloca el signo del número de mayor valor absoluto. Ejemplo: (-5) + (-3) = -8; (-7) + 4 = -3. En la multiplicación y división, la regla de signos establece que (+) × (+) = (+), (+) × (-) = (-), (-) × (-) = (+). Ejemplo: (-4) × 3 = -12; (-6) × (-2) = 12.
 
-**Jerarquía de operaciones (PEMDAS):**
-1. Paréntesis y corchetes (de adentro hacia afuera)
-2. Exponentes y potencias
-3. Multiplicación y división (izquierda a derecha)
-4. Adición y sustracción (izquierda a derecha)
+**Propiedades:** Los números enteros cumplen las propiedades de cerradura, conmutatividad, asociatividad, distributividad, existencia de elemento neutro (0 para la suma, 1 para la multiplicación) y existencia de inverso aditivo.
+
+**Jerarquía de operaciones (PEMDAS):** 1) Paréntesis y corchetes (resolviendo desde adentro hacia afuera), 2) Exponentes y potencias, 3) Multiplicación y división (de izquierda a derecha), 4) Adición y sustracción (de izquierda a derecha). Un error común es realizar las operaciones en el orden en que aparecen sin respetar esta jerarquía.
 
 ### Números racionales (ℚ)
-Fracciones a/b donde b ≠ 0. Incluyen enteros (3 = 3/1), fracciones y decimales finitos o periódicos.
 
-**Operaciones con fracciones:**
-- **Suma y resta:** Denominador común (MCM). Ej: 2/3 + 3/4 = 8/12 + 9/12 = 17/12
-- **Multiplicación:** Numerador × numerador, denominador × denominador. Ej: 2/3 × 4/5 = 8/15
-- **División:** Multiplicar por el recíproco. Ej: 2/3 ÷ 4/5 = 2/3 × 5/4 = 10/12 = 5/6
+El conjunto de los números racionales está formado por todas las fracciones a/b donde a y b son números enteros y b ≠ 0. Incluyen los enteros (3 = 3/1), las fracciones propias e impropias, los decimales finitos (0,75 = 3/4) y los decimales periódicos (0,333... = 1/3). Los racionales son densos: entre dos números racionales siempre existe otro número racional.
 
-**Comparación:** Multiplicación cruzada: a/b vs c/d → a × d vs c × b. Ej: 3/4 vs 2/3 → 9 > 8 → 3/4 > 2/3
+**Operaciones con fracciones:** Para sumar o restar, se calcula el mínimo común múltiplo (MCM) de los denominadores y se convierten las fracciones a ese denominador común. Ejemplo: 2/3 + 3/4 = 8/12 + 9/12 = 17/12. En la multiplicación, se multiplican numeradores entre sí y denominadores entre sí. Ejemplo: 2/3 × 4/5 = 8/15. En la división, se multiplica la primera fracción por el recíproco de la segunda. Ejemplo: 2/3 ÷ 4/5 = 2/3 × 5/4 = 10/12 = 5/6.
+
+**Comparación:** Para comparar a/b con c/d, se utiliza la multiplicación cruzada: se compara a × d con c × b. Ejemplo: 3/4 vs 2/3 → 3 × 3 = 9 > 2 × 4 = 8 → 3/4 > 2/3.
 
 ### Porcentajes
-- Porcentaje = (parte / total) × 100%
-- Aumento: valor × (1 + %/100). Ej: $30.000 + 15% → 30.000 × 1.15 = $34.500
-- Disminución: valor × (1 - %/100). Ej: $30.000 - 15% → 30.000 × 0.85 = $25.500
-- Variación porcentual: ((Final - Inicial) / Inicial) × 100
+
+El porcentaje expresa una proporción como fracción de 100. Para calcular el p% de una cantidad: (p/100) × cantidad. Ejemplo: 15% de 200 = 30. Para un aumento: valor × (1 + p/100). Ejemplo: $30.000 + 15% = 30.000 × 1,15 = $34.500. Para una disminución: valor × (1 - p/100). Ejemplo: $30.000 - 15% = 30.000 × 0,85 = $25.500. La variación porcentual se calcula como ((Valor final - Valor inicial) / Valor inicial) × 100%. El interés simple se calcula como I = C × r × t.
 
 ### 📺 Videos recomendados
 - [Números Enteros: regla de signos - JulioProfe](https://youtu.be/FhSxBLc8eGg)
@@ -1124,42 +892,31 @@ Fracciones a/b donde b ≠ 0. Incluyen enteros (3 = 3/1), fracciones y decimales
       moduleId: m1Mod2.id, name: "Ecuaciones y Proporcionalidad", slug: "ecuaciones", order: 1,
       content: `## Ecuaciones y Proporcionalidad
 
+Las ecuaciones y la proporcionalidad constituyen herramientas matemáticas fundamentales para modelar y resolver problemas de la vida cotidiana, las ciencias y la economía. Una ecuación expresa una igualdad entre dos expresiones algebraicas que contiene una o más variables desconocidas, mientras que la proporcionalidad establece relaciones de correspondencia entre magnitudes que varían de manera conjunta.
+
 ### Ecuaciones de primer grado
-Forma: ax + b = c, donde a ≠ 0. Solución: x = (c - b)/a.
 
-**Ejemplo:** 3x + 5 = 20 → 3x = 15 → x = 5
+Una ecuación de primer grado tiene la forma general ax + b = c, donde a ≠ 0. La solución es x = (c - b)/a. Para resolverla se deben: 1) simplificar cada lado eliminando paréntesis y combinando términos semejantes, 2) agrupar términos con la variable en un lado y constantes en el otro, 3) despejar la variable dividiendo ambos lados por el coeficiente.
 
-**Con paréntesis:** 2(x + 3) = 14 → 2x + 6 = 14 → x = 4
-
-**Con denominadores:** Multiplicar por el MCM.
-Ej: x/2 + x/3 = 5 → (3x + 2x)/6 = 5 → 5x = 30 → x = 6
+**Ejemplos:** 3x + 5 = 20 → 3x = 15 → x = 5. Con paréntesis: 2(x + 3) = 14 → 2x + 6 = 14 → x = 4. Con denominadores: x/2 + x/3 = 5 → MCM = 6 → (3x + 2x)/6 = 5 → 5x = 30 → x = 6.
 
 ### Sistemas de ecuaciones lineales
 
-**Método de sustitución:**
-Despejar una variable en una ecuación, reemplazarla en la otra.
-Ej: x + y = 7 → y = 7 - x; x - y = 3 → x - (7 - x) = 3 → x = 5, y = 2
+Un sistema de ecuaciones lineales es un conjunto de dos o más ecuaciones que deben cumplirse simultáneamente. Existen tres métodos principales de resolución:
 
-**Método de igualación:**
-Despejar la misma variable en ambas ecuaciones e igualar.
-Ej: x = 7 - y, x = 3 + y → 7 - y = 3 + y → y = 2, x = 5
+**Método de sustitución:** Se despeja una variable en una ecuación y se reemplaza en la otra. Ejemplo: x + y = 7 → y = 7 - x; x - y = 3 → x - (7 - x) = 3 → 2x = 10 → x = 5, y = 2.
 
-**Método de reducción:**
-Multiplicar para eliminar una variable sumando/restanto.
-Ej: x + y = 7 / x - y = 3 → sumando: 2x = 10 → x = 5, y = 2
+**Método de igualación:** Se despeja la misma variable en ambas ecuaciones y se igualan las expresiones. Ejemplo: x = 7 - y, x = 3 + y → 7 - y = 3 + y → y = 2, x = 5.
+
+**Método de reducción:** Se multiplican las ecuaciones para que los coeficientes de una variable sean opuestos y se suman. Ejemplo: x + y = 7; x - y = 3 → sumando: 2x = 10 → x = 5, y = 2.
 
 ### Proporcionalidad
 
-**Razón:** a/b. **Proporción:** a/b = c/d → a × d = b × c
+**Razón y proporción:** Una razón es la comparación entre dos cantidades mediante el cociente a/b. Una proporción es la igualdad de dos razones: a/b = c/d, lo que implica que a × d = b × c.
 
-**Proporcionalidad directa:** y = kx. Si x aumenta, y aumenta.
-- Regla de tres directa: a → b, c → x → x = (b × c)/a
+**Proporcionalidad directa (y = kx):** Si x aumenta, y aumenta en la misma proporción. Regla de tres directa: a → b, c → x → x = (b × c)/a. Ejemplo: si 3 kg cuestan $2.400, entonces 5 kg cuestan (2.400/3) × 5 = $4.000.
 
-**Proporcionalidad inversa:** y = k/x o x × y = k. Si x aumenta, y disminuye.
-- Regla de tres inversa: a → b, c → x → x = (a × b)/c
-
-**Ejemplo directa:** 3 kg cuestan $2.400 → 5 kg cuestan (2400/3) × 5 = $4.000
-**Ejemplo inversa:** 3 obreros tardan 12 días → 6 obreros tardan (3 × 12)/6 = 6 días
+**Proporcionalidad inversa (x × y = k):** Si x aumenta, y disminuye. Regla de tres inversa: a → b, c → x → x = (a × b)/c. Ejemplo: si 3 obreros tardan 12 días, entonces 6 obreros tardan (3 × 12)/6 = 6 días.
 
 ### 📺 Videos recomendados
 - [Ecuaciones de primer grado - JulioProfe](https://youtu.be/31JTn5ADGks)
@@ -1176,27 +933,33 @@ Ej: x + y = 7 / x - y = 3 → sumando: 2x = 10 → x = 5, y = 2
       moduleId: m1Mod3.id, name: "Áreas y Perímetros", slug: "areas-perimetros", order: 1,
       content: `## Áreas y Perímetros
 
-### Figuras planas
+La geometría es la rama de la matemática que estudia las propiedades y medidas de las figuras en el plano y en el espacio. El cálculo de áreas, perímetros y volúmenes es una habilidad fundamental evaluada en la PAES, con aplicaciones en arquitectura, ingeniería, diseño y la vida cotidiana.
+
+### Figuras planas: perímetros y áreas
 
 | Figura | Perímetro | Área |
-|---|---|---|
-| **Cuadrado** (lado a) | P = 4a | A = a² |
-| **Rectángulo** (lados a, b) | P = 2(a + b) | A = a × b |
-| **Triángulo** (base b, altura h) | P = a + b + c | A = (b × h) / 2 |
-| **Círculo** (radio r) | P = 2πr | A = πr² |
-| **Rombo** (diagonales D, d) | P = 4a | A = (D × d) / 2 |
-| **Trapecio** (bases B, b; altura h) | P = B + b + lados | A = ((B + b) × h) / 2 |
+|--------|-----------|------|
+| Cuadrado (lado a) | P = 4a | A = a² |
+| Rectángulo (lados a, b) | P = 2(a + b) | A = a × b |
+| Triángulo (base b, altura h) | P = a + b + c | A = (b × h) / 2 |
+| Círculo (radio r) | P = 2πr | A = πr² |
+| Rombo (diagonales D, d) | P = 4a | A = (D × d) / 2 |
+| Trapecio (bases B, b; altura h) | P = B + b + lados | A = ((B + b) × h) / 2 |
+
+El perímetro es la medida del contorno de una figura, mientras que el área es la medida de la superficie encerrada por dicho contorno. Las unidades de perímetro son unidades lineales (m, cm, km), mientras que las de área son unidades cuadradas (m², cm²).
 
 ### Teorema de Pitágoras
-En un triángulo rectángulo: **c² = a² + b²** (c = hipotenusa)
-- c = √(a² + b²); a = √(c² - b²)
-- Triple pitagórico clásico: (3, 4, 5) porque 9 + 16 = 25
 
-**Ejemplo:** Catetos 6 cm y 8 cm → h = √(36 + 64) = √100 = 10 cm
+En un triángulo rectángulo, el cuadrado de la hipotenusa (el lado opuesto al ángulo recto) es igual a la suma de los cuadrados de los catetos: c² = a² + b². Este teorema, atribuido al matemático griego Pitágoras de Samos (siglo VI a.C.), es uno de los resultados más fundamentales de la geometría.
 
-### Volúmenes
+La hipotenusa se calcula como c = √(a² + b²), y cada cateto como a = √(c² - b²). El triple pitagórico clásico es (3, 4, 5), pues 9 + 16 = 25. Ejemplo: si los catetos miden 6 cm y 8 cm, entonces h = √(36 + 64) = √100 = 10 cm.
+
+### Volúmenes de cuerpos geométricos
+
+El volumen es la medida del espacio tridimensional ocupado por un cuerpo. Las unidades de volumen son unidades cúbicas (m³, cm³, litros).
+
 | Cuerpo | Volumen |
-|---|---|
+|--------|---------|
 | Cubo (arista a) | V = a³ |
 | Paralelepípedo (lados a, b, c) | V = a × b × c |
 | Cilindro (radio r, altura h) | V = πr² × h |
@@ -1218,36 +981,32 @@ En un triángulo rectángulo: **c² = a² + b²** (c = hipotenusa)
       moduleId: m1Mod4.id, name: "Estadística Descriptiva", slug: "estadistica", order: 1,
       content: `## Estadística Descriptiva
 
+La estadística descriptiva es la rama de la estadística que se ocupa de recolectar, organizar, resumir y presentar datos de manera informativa. Su objetivo es describir las características principales de un conjunto de datos mediante medidas numéricas y representaciones gráficas. Es una herramienta fundamental para el análisis de datos en ciencias sociales, naturales, economía y la vida cotidiana.
+
 ### Medidas de tendencia central
 
-**Media aritmética (promedio):** x̄ = (suma de datos) / (cantidad de datos)
-- **Media ponderada:** x̄ = (Σ xᵢwᵢ) / (Σ wᵢ)
+Estas medidas indican el valor típico o central alrededor del cual se agrupan los datos.
 
-**Mediana:** Valor central cuando los datos están ordenados.
-- Si n es impar: valor en posición (n+1)/2.
-- Si n es par: promedio de los dos valores centrales.
-- Ventaja: no afectada por valores extremos.
+**Media aritmética (promedio):** Se calcula como x̄ = (suma de datos)/(cantidad de datos). Su principal desventaja es que es sensible a valores extremos (outliers). La **media ponderada** se usa cuando los datos tienen distinta importancia: x̄ = (Σ xᵢwᵢ) / (Σ wᵢ).
 
-**Moda:** Valor que más se repite. Puede ser unimodal, bimodal o multimodal.
+**Mediana:** Es el valor central cuando los datos están ordenados de menor a mayor. Si n es impar, es el valor en la posición (n+1)/2. Si n es par, es el promedio de los dos valores centrales. Su principal ventaja es que no es afectada por valores extremos, lo que la hace más representativa que la media en distribuciones asimétricas.
+
+**Moda:** Es el valor que más se repite en el conjunto de datos. Puede ser unimodal (una moda), bimodal (dos modas) o multimodal (más de dos). Es la única medida de tendencia central aplicable a datos cualitativos (categóricos).
 
 ### Medidas de posición
-- **Cuartiles:** Q1 (25%), Q2 = mediana (50%), Q3 (75%).
-- **Rango intercuartil (IQR):** Q3 - Q1. Mide dispersión del 50% central.
-- **Percentiles:** Pk deja el k% de los datos por debajo.
 
-### Tablas y gráficos
+Los cuartiles dividen los datos ordenados en cuatro partes iguales: Q1 (primer cuartil, 25%), Q2 (segundo cuartil o mediana, 50%) y Q3 (tercer cuartil, 75%). El rango intercuartil (IQR = Q3 - Q1) mide la dispersión del 50% central de los datos y es útil para identificar valores atípicos (outliers). Los percentiles indican el valor por debajo del cual se encuentra un porcentaje determinado de los datos: Pk deja el k% de los datos por debajo.
 
-**Tabla de frecuencias:**
+### Tablas y gráficos estadísticos
+
+**Tabla de frecuencias:** Organiza los datos mostrando la frecuencia absoluta (f), la frecuencia relativa (fr = f/n) y la frecuencia acumulada (F) para cada valor o intervalo.
+
 | Dato | Frecuencia absoluta (f) | Frecuencia relativa (fr) | Frecuencia acumulada (F) |
-|---|---|---|---|
+|------|------------------------|-------------------------|-------------------------|
 | x₁ | f₁ | fr₁ = f₁/n | F₁ = f₁ |
-| ... | ... | ... | ... |
+| x₂ | f₂ | fr₂ = f₂/n | F₂ = f₁ + f₂ |
 
-**Gráficos:**
-- **Barras:** Compara categorías discretas.
-- **Histograma:** Datos continuos agrupados en intervalos.
-- **Circular (torta):** Proporción de cada categoría.
-- **Boxplot:** Mínimo, Q1, mediana, Q3, máximo y outliers.
+**Gráficos:** Los **gráficos de barras** comparan categorías discretas. Los **histogramas** representan datos continuos agrupados en intervalos. Los **gráficos circulares (torta)** muestran la proporción de cada categoría respecto del total. El **boxplot** (diagrama de caja y bigotes) resume la distribución mostrando mínimo, Q1, mediana, Q3, máximo y valores atípicos.
 
 ### 📺 Videos recomendados
 - [Medidas de tendencia central - JulioProfe](https://youtu.be/ISp00YpBF7g)
@@ -1305,27 +1064,19 @@ En un triángulo rectángulo: **c² = a² + b²** (c = hipotenusa)
       moduleId: m2Mod1.id, name: "Función Lineal y Cuadrática", slug: "funcion-lineal-cuadratica", order: 1,
       content: `## Funciones
 
+Las funciones son relaciones matemáticas que asignan a cada elemento de un conjunto (dominio) un único elemento de otro conjunto (codominio). Son herramientas fundamentales para modelar fenómenos del mundo real, desde el crecimiento de una población hasta la trayectoria de un proyectil. En la PAES, las funciones lineal y cuadrática son los tipos más importantes.
+
 ### Función lineal: f(x) = mx + n
-- **m = pendiente:** Tasa de cambio. Indica la inclinación de la recta.
-  - m > 0: recta creciente; m < 0: recta decreciente; m = 0: recta horizontal.
-- **n = intercepto con el eje Y:** Punto donde la recta cruza el eje vertical (0, n).
-- Fórmula de la pendiente: m = (y₂ - y₁) / (x₂ - x₁)
+
+La función lineal representa una relación de proporcionalidad directa entre dos variables. Su gráfica es una línea recta. La **pendiente (m)** indica la tasa de cambio y la inclinación de la recta: si m > 0 la recta es creciente, si m < 0 es decreciente, si m = 0 es horizontal (constante). El **intercepto (n)** es el punto donde la recta cruza el eje Y (0, n). La pendiente se calcula como m = (y₂ - y₁) / (x₂ - x₁) conocidos dos puntos de la recta. La función lineal modela situaciones de crecimiento aritmético constante, como el costo total de un servicio con tarifa fija más costo variable, la distancia recorrida a velocidad constante o la conversión entre unidades de medida.
 
 ### Función cuadrática: f(x) = ax² + bx + c
-- Gráfica: parábola. Si a > 0 abre hacia arriba (mínimo), si a < 0 abre hacia abajo (máximo).
-- **Vértice:** Punto máximo o mínimo de la parábola.
-  - x_v = -b / (2a)
-  - y_v = f(x_v)
-- **Discriminante:** Δ = b² - 4ac
-  - Δ > 0 → dos raíces reales distintas
-  - Δ = 0 → una raíz real (raíz doble)
-  - Δ < 0 → sin raíces reales (raíces complejas)
-- **Eje de simetría:** Recta vertical x = x_v
 
-**Ejemplo:** f(x) = x² - 4x + 3
-- x_v = 4/2 = 2; f(2) = 4 - 8 + 3 = -1 → vértice: (2, -1)
-- Δ = 16 - 12 = 4 > 0 → dos raíces reales
-- Raíces: x = (4 ± 2)/2 → x = 3, x = 1
+La función cuadrática tiene como gráfica una parábola. Si a > 0 la parábola abre hacia arriba (tiene un valor mínimo), y si a < 0 abre hacia abajo (tiene un valor máximo). El **vértice** es el punto máximo o mínimo de la parábola y se calcula como x_v = -b/(2a) e y_v = f(x_v). El **eje de simetría** es la recta vertical que pasa por el vértice: x = x_v.
+
+El **discriminante** Δ = b² - 4ac determina la naturaleza de las raíces (ceros) de la función: si Δ > 0 hay dos raíces reales distintas, si Δ = 0 hay una raíz real (raíz doble), y si Δ < 0 no hay raíces reales (raíces complejas). Las raíces se calculan con la fórmula cuadrática: x = (-b ± √Δ) / (2a).
+
+**Ejemplo:** f(x) = x² - 4x + 3. El vértice es x_v = 4/2 = 2, f(2) = 4 - 8 + 3 = -1 → (2, -1). El discriminante es Δ = 16 - 12 = 4 > 0, por lo que tiene dos raíces reales: x = (4 ± 2)/2 → x = 3 y x = 1.
 
 ### 📺 Videos recomendados
 - [Función Lineal - JulioProfe](https://youtu.be/m3Adb4soetU)
@@ -1342,31 +1093,31 @@ En un triángulo rectángulo: **c² = a² + b²** (c = hipotenusa)
       moduleId: m2Mod2.id, name: "Razones Trigonométricas", slug: "razones-trigonometricas", order: 1,
       content: `## Trigonometría
 
-### Razones trigonométricas en un triángulo rectángulo
-- **sen(θ)** = cateto opuesto / hipotenusa
-- **cos(θ)** = cateto adyacente / hipotenusa
-- **tan(θ)** = cateto opuesto / cateto adyacente
+La trigonometría es la rama de la matemática que estudia las relaciones entre los ángulos y los lados de los triángulos. Las razones trigonométricas son herramientas fundamentales para resolver problemas que involucran distancias inaccesibles, alturas, ángulos de elevación y depresión, y fenómenos periódicos.
 
-**Relación fundamental:** tan(θ) = sen(θ) / cos(θ)
+### Razones trigonométricas en un triángulo rectángulo
+
+Dado un triángulo rectángulo con un ángulo agudo θ, se definen: sen(θ) = cateto opuesto / hipotenusa; cos(θ) = cateto adyacente / hipotenusa; tan(θ) = cateto opuesto / cateto adyacente. La relación fundamental entre estas funciones es tan(θ) = sen(θ) / cos(θ).
 
 ### Identidad fundamental
-**sen²(θ) + cos²(θ) = 1** (válida para cualquier ángulo θ)
+
+Para cualquier ángulo θ, se cumple que sen²(θ) + cos²(θ) = 1. Esta identidad pitagórica es la más importante de la trigonometría y se deriva directamente del teorema de Pitágoras aplicado a un triángulo rectángulo con hipotenusa igual a 1.
 
 ### Ángulos notables
+
+Los ángulos de 0°, 30°, 45°, 60° y 90° tienen valores exactos de seno, coseno y tangente que deben memorizarse:
+
 | Ángulo | sen | cos | tan |
-|---|---|---|---|
+|--------|-----|-----|-----|
 | 0° | 0 | 1 | 0 |
 | 30° | 1/2 | √3/2 | √3/3 |
 | 45° | √2/2 | √2/2 | 1 |
 | 60° | √3/2 | 1/2 | √3 |
-| 90° | 1 | 0 | ∞ |
+| 90° | 1 | 0 | ∞ (indefinido) |
 
 ### Teoremas para triángulos no rectángulos
 
-**Teorema del seno:** a/sen(A) = b/sen(B) = c/sen(C) = 2R (R = radio circunferencia circunscrita)
-
-**Teorema del coseno:** a² = b² + c² - 2bc · cos(A)
-- Útil cuando se conocen dos lados y el ángulo entre ellos, o los tres lados.
+Para triángulos que no son rectángulos, se utilizan dos teoremas fundamentales. El **teorema del seno** establece que a/sen(A) = b/sen(B) = c/sen(C) = 2R, donde R es el radio de la circunferencia circunscrita al triángulo. Es útil cuando se conocen dos ángulos y un lado (ALA o AAL). El **teorema del coseno**, generalización del teorema de Pitágoras, establece que a² = b² + c² - 2bc·cos(A). Es útil cuando se conocen dos lados y el ángulo entre ellos (LAL) o los tres lados (LLL).
 
 ### 📺 Videos recomendados
 - [Razones Trigonométricas - JulioProfe](https://youtu.be/gRhsg7sQGuU)
@@ -1383,33 +1134,27 @@ En un triángulo rectángulo: **c² = a² + b²** (c = hipotenusa)
       moduleId: m2Mod3.id, name: "Probabilidad Condicional", slug: "probabilidad-condicional", order: 1,
       content: `## Probabilidad Avanzada
 
+La probabilidad es la rama de la matemática que estudia la incertidumbre y los fenómenos aleatorios. La probabilidad condicional y la combinatoria son herramientas avanzadas que permiten calcular probabilidades en situaciones donde la información disponible modifica las expectativas iniciales.
+
 ### Probabilidad condicional
-Probabilidad de que ocurra A dado que ya ocurrió B:
-**P(A|B) = P(A ∩ B) / P(B)**, donde P(B) > 0.
+
+La probabilidad de que ocurra un evento A dado que ya ocurrió un evento B se denota como P(A|B) y se calcula como P(A|B) = P(A ∩ B) / P(B), donde P(B) > 0. La probabilidad condicional refleja cómo la ocurrencia de un evento modifica la probabilidad de otro. Por ejemplo, la probabilidad de tener una enfermedad dado que un examen dio positivo es muy diferente de la probabilidad general de tener la enfermedad.
 
 ### Eventos independientes
-Dos eventos son independientes si la ocurrencia de uno no afecta la probabilidad del otro:
-**P(A ∩ B) = P(A) · P(B)**
+
+Dos eventos son independientes si la ocurrencia de uno no afecta la probabilidad del otro. En este caso, P(A ∩ B) = P(A) · P(B). Ejemplo: el resultado de lanzar una moneda dos veces; el segundo lanzamiento es independiente del primero.
 
 ### Teorema de Bayes
-Permite actualizar la probabilidad de un evento A dado que ocurrió B:
-**P(A|B) = P(B|A) · P(A) / P(B)**
 
-Este teorema es fundamental en estadística inferencial, diagnósticos médicos y machine learning.
+El teorema de Bayes permite actualizar la probabilidad de un evento A basándose en nueva información B: P(A|B) = P(B|A) · P(A) / P(B). Este teorema, desarrollado por el matemático inglés Thomas Bayes (1702-1761), es fundamental en estadística inferencial, diagnósticos médicos, sistemas de recomendación y machine learning. Permite incorporar evidencia para refinar estimaciones probabilísticas de manera sistemática.
 
 ### Combinatoria
 
-**Principio multiplicativo:** Si una tarea tiene m formas de hacerse y otra n formas, ambas juntas tienen m × n formas.
+La combinatoria estudia las formas de contar y agrupar elementos. El **principio multiplicativo** establece que si una tarea tiene m formas de hacerse y otra n formas, ambas juntas tienen m × n formas.
 
-**Permutaciones (orden importa):**
-- **Permutación de n elementos:** P(n) = n! (factorial de n)
-- **Variaciones (sin repetición):** V(n,k) = n! / (n - k)!
-- Ej: ¿De cuántas formas se pueden ordenar 3 libros en un estante? P(3) = 3! = 6
+**Permutaciones (el orden importa):** La permutación de n elementos distintos es P(n) = n!. Las variaciones (sin repetición) de n elementos tomados de k en k son V(n,k) = n! / (n - k)!. Ejemplo: ¿de cuántas formas se pueden ordenar 3 libros en un estante? P(3) = 3! = 6.
 
-**Combinaciones (orden no importa):**
-- **Combinaciones de n en k:** C(n,k) = n! / (k! (n - k)!)
-- También se escribe como (n choose k) o coeficiente binomial.
-- Ej: ¿Cuántos grupos de 2 personas se pueden formar con {A, B, C}? C(3,2) = 3! / (2!·1!) = 3
+**Combinaciones (el orden no importa):** Las combinaciones de n elementos tomados de k en k son C(n,k) = n! / (k! (n - k)!). También se denota como coeficiente binomial (n choose k). Ejemplo: ¿cuántos grupos de 2 personas se pueden formar con {A, B, C}? C(3,2) = 3! / (2!·1!) = 3 (AB, AC, BC).
 
 ### 📺 Videos recomendados
 - [Probabilidad Condicional - JulioProfe](https://youtu.be/o-x9k98E2Ak)
@@ -1464,43 +1209,33 @@ Este teorema es fundamental en estadística inferencial, diagnósticos médicos 
       moduleId: cMod1.id, name: "Célula y Organismos", slug: "celula", order: 1,
       content: `## Biología Celular
 
+La célula es la unidad fundamental de la vida. Todos los seres vivos están compuestos por una o más células, y todas las funciones vitales de los organismos ocurren dentro de las células. El estudio de la célula es esencial para comprender la biología, la medicina y las ciencias de la salud.
+
 ### Teoría celular
-La teoría celular es uno de los fundamentos de la biología moderna:
-1. Todos los seres vivos están formados por una o más células.
-2. La célula es la unidad básica de estructura y función de los seres vivos.
-3. Todas las células provienen de células preexistentes (división celular).
+
+La teoría celular es uno de los pilares fundamentales de la biología moderna. Fue desarrollada en el siglo XIX gracias al trabajo de Matthias Schleiden (botánico alemán) y Theodor Schwann (fisiólogo alemán), quienes en 1838-1839 propusieron que todos los organismos están compuestos por células. Posteriormente, Rudolf Virchow (1855) añadió el principio de que toda célula proviene de otra célula preexistente (omnis cellula e cellula). Los postulados de la teoría celular son: 1) Todos los seres vivos están formados por una o más células, 2) La célula es la unidad básica de estructura y función de los seres vivos, 3) Todas las células provienen de células preexistentes mediante división celular.
 
 ### Tipos de células
 
-**Procariotas (pro = antes, karyon = núcleo):**
-- Sin núcleo definido. El material genético (ADN) está disperso en el citoplasma (nucleoide).
-- Sin organelos membranosos internos.
-- Ejemplos: bacterias (Escherichia coli), arqueas.
-- Generalmente más pequeñas (1-5 μm).
+**Células procariotas (pro = antes, karyon = núcleo):** Carecen de núcleo definido; el material genético (ADN) se encuentra disperso en el citoplasma en una región llamada nucleoide. No poseen organelos membranosos internos (no tienen mitocondrias, retículo endoplasmático ni aparato de Golgi). Son generalmente más pequeñas (1-5 μm). Incluyen bacterias (como Escherichia coli) y arqueas.
 
-**Eucariotas (eu = verdadero, karyon = núcleo):**
-- Con núcleo definido rodeado por una membrana nuclear.
-- Poseen organelos membranosos (mitocondrias, retículo endoplasmático, aparato de Golgi).
-- Pueden ser:
-  - **Animales:** Sin pared celular ni cloroplastos. Con centríolos.
-  - **Vegetales:** Con pared celular de celulosa y cloroplastos. Con vacuola central grande.
-  - **Hongos:** Con pared celular de quitina.
-  - **Protistas:** Grupo diverso (algas, amebas, paramecios).
+**Células eucariotas (eu = verdadero, karyon = núcleo):** Poseen un núcleo definido rodeado por una membrana nuclear que contiene el ADN. Tienen organelos membranosos especializados. Las células eucariotas se clasifican en: animales (sin pared celular, sin cloroplastos, con centríolos), vegetales (con pared celular de celulosa, cloroplastos y vacuola central grande), hongos (con pared celular de quitina) y protistas (grupo diverso que incluye algas, amebas y paramecios).
 
 ### Organelos celulares
 
 | Organelo | Función principal |
-|---|---|
-| **Núcleo** | Contiene el ADN, controla la actividad celular |
-| **Mitocondrias** | Producción de ATP (energía) mediante respiración celular |
-| **Cloroplastos** | Fotosíntesis (solo en células vegetales) |
-| **Membrana plasmática** | Regula el paso de sustancias (bicapa lipídica) |
-| **Retículo endoplasmático** | Síntesis de proteínas (RE rugoso) y lípidos (RE liso) |
-| **Aparato de Golgi** | Modifica, empaca y distribuye proteínas |
-| **Ribosomas** | Síntesis de proteínas |
-| **Lisosomas** | Digestión celular |
-| **Vacuola** | Almacenamiento y mantenimiento de presión (grande en vegetales) |
-| **Pared celular** | Soporte y protección (vegetales, hongos, bacterias) |
+|----------|------------------|
+| Núcleo | Contiene el ADN, controla la actividad celular |
+| Mitocondrias | Producción de ATP (energía) mediante respiración celular |
+| Cloroplastos | Fotosíntesis (solo en células vegetales) |
+| Membrana plasmática | Regula el paso de sustancias (bicapa lipídica) |
+| Retículo endoplasmático rugoso | Síntesis de proteínas |
+| Retículo endoplasmático liso | Síntesis de lípidos |
+| Aparato de Golgi | Modifica, empaca y distribuye proteínas |
+| Ribosomas | Síntesis de proteínas |
+| Lisosomas | Digestión celular |
+| Vacuola | Almacenamiento y mantenimiento de presión (grande en vegetales) |
+| Pared celular | Soporte y protección (vegetales, hongos, bacterias) |
 
 ### 📺 Videos recomendados
 - [La Célula: Procariota vs Eucariota - La Hiperactina](https://youtu.be/URUJD5NEXC8)
@@ -1516,48 +1251,23 @@ La teoría celular es uno de los fundamentos de la biología moderna:
       moduleId: cMod2.id, name: "Átomos y Enlaces", slug: "atomos-enlaces", order: 1,
       content: `## Química: Átomos y Enlaces
 
+La química estudia la composición, estructura, propiedades y transformaciones de la materia. El átomo es la unidad básica de la materia, y los enlaces químicos son las fuerzas que mantienen unidos a los átomos para formar moléculas y compuestos. Estos conceptos son fundamentales para comprender la química y sus aplicaciones en la vida cotidiana, la industria y la tecnología.
+
 ### Estructura atómica
-El átomo es la unidad básica de la materia. Está compuesto por:
-- **Protones (+):** Partículas con carga positiva en el núcleo.
-- **Neutrones (0):** Partículas sin carga en el núcleo.
-- **Electrones (-):** Partículas con carga negativa que orbitan el núcleo en niveles de energía.
 
-**Número atómico (Z):** Cantidad de protones en el núcleo. Identifica al elemento.
-**Masa atómica (A):** Suma de protones + neutrones (A = Z + N).
-**Isótopos:** Átomos del mismo elemento con distinto número de neutrones (mismo Z, distinto A).
-
-Ejemplo: Carbono-12: Z = 6, A = 12 (6 protones, 6 neutrones).
+El átomo está compuesto por tres tipos de partículas subatómicas: **protones** (carga positiva, en el núcleo), **neutrones** (sin carga, en el núcleo) y **electrones** (carga negativa, que orbitan el núcleo en niveles de energía). El **número atómico (Z)** es la cantidad de protones en el núcleo e identifica al elemento químico. La **masa atómica (A)** es la suma de protones y neutrones (A = Z + N). Los **isótopos** son átomos del mismo elemento (mismo Z) con distinto número de neutrones (distinto A). Ejemplo: Carbono-12: Z = 6, A = 12 (6 protones, 6 neutrones); Carbono-14: Z = 6, A = 14 (6 protones, 8 neutrones), utilizado en datación radiométrica.
 
 ### Tabla periódica
-Organización de los elementos químicos por número atómico creciente.
-- **Períodos (filas):** Indican el nivel de energía de los electrones externos.
-- **Grupos (columnas):** Elementos con el mismo número de electrones de valencia (propiedades químicas similares).
-  - Grupo 1: Metales alcalinos (muy reactivos).
-  - Grupo 17: Halógenos.
-  - Grupo 18: Gases nobles (estables, no reactivos).
+
+Organiza los elementos químicos por número atómico creciente. Los **períodos (filas)** indican el nivel de energía de los electrones externos. Los **grupos (columnas)** agrupan elementos con el mismo número de electrones de valencia, por lo tanto con propiedades químicas similares. El Grupo 1 (metales alcalinos: Li, Na, K) son altamente reactivos; el Grupo 17 (halógenos: F, Cl, Br) forman sales con los metales; el Grupo 18 (gases nobles: He, Ne, Ar) son estables y no reactivos.
 
 ### Enlaces químicos
 
-**1. Enlace iónico:**
-- Transferencia de electrones de un metal a un no metal.
-- El metal dona electrones (se vuelve catión +) y el no metal los acepta (se vuelve anión -).
-- Atracción electrostática entre iones de carga opuesta.
-- Ejemplo: NaCl (cloruro de sodio). Na⁺ dona un electrón a Cl⁻.
-- Propiedades: Altos puntos de fusión, solubles en agua, conducen electricidad en disolución.
+**Enlace iónico:** Se produce por transferencia de electrones desde un metal (que se convierte en catión positivo) hacia un no metal (que se convierte en anión negativo). La atracción electrostática entre iones de carga opuesta mantiene el compuesto unido. Ejemplo: NaCl (cloruro de sodio). Los compuestos iónicos tienen altos puntos de fusión, son solubles en agua y conducen electricidad en disolución.
 
-**2. Enlace covalente:**
-- Compartición de electrones entre dos no metales.
-- **Covalente simple:** Comparten un par de electrones (H₂, Cl₂).
-- **Covalente doble:** Comparten dos pares (O₂, CO₂).
-- **Covalente triple:** Comparten tres pares (N₂).
-- **Covalente polar:** Electrones compartidos desigualmente (H₂O, HCl).
-- **Covalente apolar:** Electrones compartidos equitativamente (H₂, O₂).
-- Propiedades: Puntos de fusión variables, pueden ser solubles o no.
+**Enlace covalente:** Se produce por compartición de electrones entre dos no metales. Puede ser simple (un par de electrones: H₂, Cl₂), doble (dos pares: O₂, CO₂) o triple (tres pares: N₂). En el enlace covalente polar, los electrones se comparten desigualmente (H₂O, HCl), generando una carga parcial positiva y otra negativa. En el enlace covalente apolar, los electrones se comparten equitativamente (H₂, O₂).
 
-**3. Enlace metálico:**
-- Electrones libres que se mueven entre una red de cationes metálicos.
-- Ejemplo: Fe, Cu, Al, Au.
-- Propiedades: Buenos conductores de calor y electricidad, maleables, dúctiles, brillantes.
+**Enlace metálico:** Los electrones se mueven libremente entre una red de cationes metálicos, formando una nube electrónica. Ejemplo: Fe, Cu, Al, Au. Los metales son buenos conductores de calor y electricidad, maleables, dúctiles y brillantes.
 
 ### 📺 Videos recomendados
 - [Enlace Químico: Iónico, Covalente y Metálico - Amigos de la Química](https://youtu.be/NLdUjNQjE-o)
@@ -1573,42 +1283,23 @@ Organización de los elementos químicos por número atómico creciente.
       moduleId: cMod3.id, name: "Movimiento y Fuerzas", slug: "movimiento-fuerzas", order: 1,
       content: `## Física: Movimiento y Fuerzas
 
+La física estudia las propiedades de la materia y las interacciones fundamentales de la naturaleza. La mecánica clásica, desarrollada principalmente por Isaac Newton en el siglo XVII, describe el movimiento de los cuerpos y las fuerzas que lo causan. Estos principios son esenciales para comprender desde el movimiento de los planetas hasta el funcionamiento de máquinas y vehículos.
+
 ### Leyes de Newton
 
-**1. Primera ley (Ley de inercia):**
-Un cuerpo permanece en estado de reposo o movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él.
-- La inercia es la resistencia de un cuerpo a cambiar su estado de movimiento.
-- A mayor masa, mayor inercia.
+**Primera ley (Ley de inercia):** Un cuerpo permanece en estado de reposo o movimiento rectilíneo uniforme a menos que una fuerza externa neta actúe sobre él. La inercia es la resistencia de un cuerpo a cambiar su estado de movimiento; a mayor masa, mayor inercia. Esta ley explica por qué los pasajeros de un auto se sienten empujados hacia adelante cuando el auto frena bruscamente.
 
-**2. Segunda ley (Ley de fuerza):**
-**F = m · a** (Fuerza = masa × aceleración)
-- La fuerza neta aplicada a un objeto es directamente proporcional a su aceleración.
-- La aceleración tiene la misma dirección que la fuerza neta.
-- Unidad de fuerza: Newton (N) = kg · m/s²
+**Segunda ley (Ley de fuerza):** La fuerza neta aplicada a un objeto es igual al producto de su masa por su aceleración: F = m · a. La aceleración tiene la misma dirección que la fuerza neta. La unidad de fuerza en el Sistema Internacional es el Newton (N), equivalente a kg·m/s². Cuanto mayor es la masa de un objeto, menor es la aceleración producida por una fuerza dada.
 
-**3. Tercera ley (Ley de acción y reacción):**
-Por cada fuerza de acción, existe una fuerza de reacción igual en magnitud y opuesta en dirección.
-- Las fuerzas siempre ocurren en pares.
-- Ejemplo: Al empujar una pared, la pared empuja con la misma fuerza.
+**Tercera ley (Ley de acción y reacción):** Por cada fuerza de acción, existe una fuerza de reacción igual en magnitud y opuesta en dirección. Las fuerzas siempre ocurren en pares, actuando sobre cuerpos diferentes. Ejemplos: al caminar, empujamos el suelo hacia atrás y el suelo nos empuja hacia adelante; al remar, el remo empuja el agua hacia atrás y el agua empuja el bote hacia adelante.
 
 ### Movimiento rectilíneo uniforme (MRU)
-- Velocidad constante: v = d / t
-- Aceleración = 0
-- Ejemplo: Un auto que viaja a 80 km/h en línea recta sin variar su velocidad.
+
+En el MRU, la velocidad es constante y la aceleración es cero. La ecuación fundamental es v = d/t, donde d es la distancia recorrida y t el tiempo empleado. Ejemplo: un auto que viaja a 80 km/h en línea recta sin variar su velocidad recorre 80 km cada hora.
 
 ### Movimiento uniformemente acelerado (MUA)
-- Aceleración constante.
-- **Ecuaciones:**
-  - v_f = v_i + a · t
-  - d = v_i · t + (1/2) · a · t²
-  - v_f² = v_i² + 2a · d
 
-**Caída libre:** La aceleración de gravedad (g) = 9.8 m/s² ≈ 10 m/s².
-- v_f = g · t
-- h = (1/2) · g · t²
-
-**Ejemplo:** Un auto acelera de 0 a 20 m/s en 5 segundos.
-a = (20 - 0) / 5 = 4 m/s²
+En el MUA, la aceleración es constante. Las ecuaciones fundamentales son: v_f = v_i + a·t; d = v_i·t + (1/2)·a·t²; v_f² = v_i² + 2a·d. La **caída libre** es un caso particular de MUA donde la aceleración es la gravedad (g = 9,8 m/s² ≈ 10 m/s²). Las ecuaciones para caída libre son: v_f = g·t y h = (1/2)·g·t². Ejemplo: un auto acelera de 0 a 20 m/s en 5 segundos, su aceleración es a = (20 - 0) / 5 = 4 m/s².
 
 ### 📺 Videos recomendados
 - [Leyes de Newton - JulioProfe](https://youtu.be/C6Ny3w2zsqY)
