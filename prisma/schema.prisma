@@ -1,0 +1,83 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Subject {
+  id       String   @id @default(uuid())
+  name     String
+  slug     String   @unique
+  icon     String
+  color    String
+  order    Int
+  modules  Module[]
+  quizzes  Quiz[]
+}
+
+model Module {
+  id        String  @id @default(uuid())
+  subjectId  String
+  subject   Subject @relation(fields: [subjectId], references: [id])
+  name      String
+  slug      String  @unique
+  order     Int
+  topics    Topic[]
+}
+
+model Topic {
+  id        String   @id @default(uuid())
+  moduleId  String
+  module    Module   @relation(fields: [moduleId], references: [id])
+  name      String
+  slug      String   @unique
+  order     Int
+  content   String
+  questions Question[]
+}
+
+model Question {
+  id          String  @id @default(uuid())
+  topicId     String
+  topic       Topic   @relation(fields: [topicId], references: [id])
+  text        String
+  options     String
+  correct     Int
+  explanation String
+  quizQuestions QuizQuestion[]
+}
+
+model Quiz {
+  id        String        @id @default(uuid())
+  subjectId String?
+  subject   Subject?      @relation(fields: [subjectId], references: [id])
+  title     String
+  createdAt DateTime      @default(now())
+  questions QuizQuestion[]
+  results   QuizResult[]
+}
+
+model QuizQuestion {
+  id         String   @id @default(uuid())
+  quizId     String
+  quiz       Quiz     @relation(fields: [quizId], references: [id])
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id])
+  order      Int
+}
+
+model QuizResult {
+  id          String   @id @default(uuid())
+  quizId      String
+  quiz        Quiz     @relation(fields: [quizId], references: [id])
+  sessionId   String
+  score       Int
+  total       Int
+  answers     String
+  streak      Int
+  avgTime     Float
+  completedAt DateTime @default(now())
+}
